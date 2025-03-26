@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calorie Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calorie Tracker</h1>
+        
+        <!-- Add user greeting -->
+        <p id="userGreeting" style="text-align: right; margin-bottom: 10px;"></p>
+        
+        <input type="text" id="foodInput" placeholder="Enter food name...">
+        <button onclick="addFood()">Add</button>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Food</th>
+                    <th>Calories</th>
+                    <th>Protein (g)</th>
+                    <th>Carbs (g)</th>
+                    <th>Fat (g)</th>
+                </tr>
+            </thead>
+            <tbody id="foodTable">
+                <!-- Dynamic rows will be added here -->
+            </tbody>
+        </table>
+        
+        <h2>Total Calories: <span id="totalCalories">0</span></h2>
+        <div class="nav-links">
+            <a href="goals.html">Set Goals</a>
+            <a href="dashboard.html">Go to Dashboard</a>
+            <!-- Move logout link here and add conditional display -->
+            <a href="./login.html" id="logoutLink" style="display:none;" onclick="logout()">Logout</a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

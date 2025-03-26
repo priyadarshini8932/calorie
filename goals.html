@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Set Goals</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Set Daily Goals</h1>
+        <form id="goalForm">
+            <label for="calorieGoal">Calorie Goal:</label>
+            <input type="number" id="calorieGoal" placeholder="Enter calorie goal...">
+            
+            <label for="proteinGoal">Protein Goal (g):</label>
+            <input type="number" id="proteinGoal" placeholder="Enter protein goal...">
+            
+            <label for="carbsGoal">Carbs Goal (g):</label>
+            <input type="number" id="carbsGoal" placeholder="Enter carbs goal...">
+            
+            <label for="fatGoal">Fat Goal (g):</label>
+            <input type="number" id="fatGoal" placeholder="Enter fat goal...">
+            
+            <button type="submit">Set Goals</button>
+        </form>
+
+        <h2>Progress</h2>
+        <p>Calories Consumed: <span id="caloriesConsumed">0</span> / <span id="calorieGoalDisplay">0</span></p>
+        <p>Protein Consumed: <span id="proteinConsumed">0</span>g / <span id="proteinGoalDisplay">0</span>g</p>
+        <p>Carbs Consumed: <span id="carbsConsumed">0</span>g / <span id="carbsGoalDisplay">0</span>g</p>
+        <p>Fat Consumed: <span id="fatConsumed">0</span>g / <span id="fatGoalDisplay">0</span>g</p>
+
+        <a href="index.html">Back to Home</a>
+    </div>
+
+    <script src="goals.js"></script>
+</body>
+</html>

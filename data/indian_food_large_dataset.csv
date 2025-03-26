@@ -1,0 +1,2001 @@
+Name,Calories (per 100g),Protein (g),Carbs (g),Fat (g),Category
+Dosa,290,9.8,28,11.7,Breakfast
+Dal Makhani,327,13.0,24,2.7,Lunch
+Mutton Curry,165,11.6,25,18.7,Dinner
+Masala Papad,339,9.3,34,6.6,Snack
+Kulfi,258,10.5,38,9.9,Dessert
+Poha,354,8.2,40,10.5,Breakfast
+Lemon Rice,296,2.1,19,5.1,Lunch
+Jeera Rice,140,14.3,35,5.4,Dinner
+Pakora,119,14.3,25,14.4,Snack
+Rabri,158,3.3,46,3.6,Dessert
+Chilla,398,11.5,21,9.8,Breakfast
+Vegetable Biryani,159,9.1,31,17.3,Lunch
+Paneer Bhurji,130,5.6,30,6.5,Dinner
+Bhel Puri,233,2.1,34,11.7,Snack
+Kheer,197,14.4,38,2.0,Dessert
+Dosa,317,8.0,26,15.0,Breakfast
+Paneer Butter Masala,363,4.0,27,6.6,Lunch
+Fish Curry,267,6.3,44,2.5,Dinner
+Pakora,103,7.0,10,6.2,Snack
+Peda,253,5.0,37,13.9,Dessert
+Pongal,135,4.2,10,16.6,Breakfast
+Vegetable Biryani,330,3.5,17,7.2,Lunch
+Bhindi Masala,205,8.8,11,10.8,Dinner
+Dhokla,260,8.9,38,17.9,Snack
+Rasgulla,255,10.2,17,11.8,Dessert
+Chilla,332,11.2,48,1.4,Breakfast
+Rajma,102,11.2,36,11.3,Lunch
+Mutton Curry,185,6.3,45,17.1,Dinner
+Kachori,121,5.3,43,3.2,Snack
+Rabri,195,12.5,14,11.0,Dessert
+Misal Pav,397,9.3,38,9.5,Breakfast
+Dal Makhani,291,6.8,44,5.8,Lunch
+Dal Tadka,353,6.9,33,11.8,Dinner
+Sev Puri,248,12.2,10,18.8,Snack
+Rabri,180,7.6,49,4.1,Dessert
+Dosa,328,4.1,13,14.8,Breakfast
+Paneer Butter Masala,228,2.6,15,17.7,Lunch
+Paneer Bhurji,161,13.8,17,10.7,Dinner
+Sev Puri,347,10.4,43,12.2,Snack
+Kulfi,390,8.0,46,14.2,Dessert
+Aloo Paratha,357,8.6,22,7.3,Breakfast
+Chole,124,11.7,35,9.7,Lunch
+Jeera Rice,387,12.6,32,15.2,Dinner
+Momos,155,7.9,47,16.0,Snack
+Kulfi,160,6.8,11,4.7,Dessert
+Vada Pav,160,5.0,48,8.7,Breakfast
+Dal Makhani,150,15.0,28,19.8,Lunch
+Dal Tadka,101,6.9,29,19.6,Dinner
+Kachori,280,2.5,50,15.8,Snack
+Ladoo,132,5.9,33,9.6,Dessert
+Medu Vada,178,9.2,21,6.8,Breakfast
+Sambar Rice,212,4.9,32,13.7,Lunch
+Palak Paneer,332,4.3,25,16.3,Dinner
+Kachori,286,4.7,28,11.3,Snack
+Barfi,241,6.6,22,6.8,Dessert
+Poha,243,3.6,34,1.9,Breakfast
+Dal Makhani,102,14.6,32,1.5,Lunch
+Palak Paneer,348,11.6,49,15.0,Dinner
+Sev Puri,165,12.8,38,4.8,Snack
+Kulfi,129,8.8,50,13.4,Dessert
+Poha,177,9.0,19,6.4,Breakfast
+Paneer Butter Masala,246,9.9,41,16.5,Lunch
+Butter Chicken,317,7.3,18,10.8,Dinner
+Dhokla,286,9.6,48,2.4,Snack
+Gulab Jamun,158,10.0,37,2.3,Dessert
+Medu Vada,267,2.8,37,19.0,Breakfast
+Paneer Butter Masala,117,14.4,49,17.8,Lunch
+Bhindi Masala,381,5.7,41,6.4,Dinner
+Kachori,378,2.5,24,2.9,Snack
+Rasgulla,339,6.1,21,14.0,Dessert
+Medu Vada,301,8.0,21,4.8,Breakfast
+Sambar Rice,170,13.0,17,2.7,Lunch
+Fish Curry,338,11.2,25,11.8,Dinner
+Dhokla,143,6.7,48,11.4,Snack
+Gulab Jamun,292,4.7,25,3.1,Dessert
+Vada Pav,290,3.1,31,17.5,Breakfast
+Rajma,326,12.4,32,5.0,Lunch
+Jeera Rice,136,5.0,50,1.8,Dinner
+Samosa,233,13.2,32,2.3,Snack
+Barfi,256,6.2,38,8.8,Dessert
+Misal Pav,314,10.4,14,9.4,Breakfast
+Chole,103,4.5,32,18.7,Lunch
+Bhindi Masala,255,3.7,30,9.1,Dinner
+Masala Papad,142,2.8,31,2.6,Snack
+Ladoo,393,7.1,24,17.7,Dessert
+Misal Pav,228,5.4,28,7.7,Breakfast
+Dal Makhani,280,10.7,31,12.2,Lunch
+Butter Chicken,128,12.9,45,3.2,Dinner
+Chaat,107,14.6,17,7.1,Snack
+Kheer,345,14.7,17,14.9,Dessert
+Pongal,272,14.7,38,16.9,Breakfast
+Dal Makhani,103,14.5,35,19.5,Lunch
+Jeera Rice,151,7.6,40,14.9,Dinner
+Kachori,300,12.2,22,12.2,Snack
+Rasgulla,239,9.3,45,2.2,Dessert
+Misal Pav,214,6.0,24,8.9,Breakfast
+Lemon Rice,266,5.4,28,10.9,Lunch
+Palak Paneer,262,10.9,40,11.5,Dinner
+Chaat,285,12.3,33,2.0,Snack
+Rabri,301,6.6,24,11.0,Dessert
+Dosa,290,2.3,12,18.8,Breakfast
+Paneer Butter Masala,295,10.1,11,10.9,Lunch
+Mutton Curry,238,4.9,21,6.5,Dinner
+Masala Papad,124,7.5,25,15.2,Snack
+Kheer,324,5.5,27,14.6,Dessert
+Upma,138,6.8,26,11.8,Breakfast
+Rajma,328,5.6,12,17.3,Lunch
+Butter Chicken,168,12.2,24,6.0,Dinner
+Pakora,332,6.6,31,6.4,Snack
+Jalebi,274,5.3,34,16.3,Dessert
+Dosa,112,4.5,19,4.3,Breakfast
+Paneer Butter Masala,307,8.8,44,10.2,Lunch
+Mutton Curry,313,2.5,25,14.0,Dinner
+Pakora,284,11.0,16,2.8,Snack
+Kulfi,284,3.6,39,12.4,Dessert
+Vada Pav,251,2.4,34,4.5,Breakfast
+Rajma,371,12.5,37,2.2,Lunch
+Jeera Rice,374,5.1,10,14.0,Dinner
+Masala Papad,114,13.9,25,12.1,Snack
+Kulfi,133,12.9,34,19.9,Dessert
+Upma,287,8.2,33,15.8,Breakfast
+Sambar Rice,251,11.2,21,12.9,Lunch
+Dal Tadka,342,4.2,18,6.5,Dinner
+Kachori,359,11.9,12,3.7,Snack
+Peda,101,3.8,49,16.8,Dessert
+Pongal,146,10.5,15,6.6,Breakfast
+Chole,218,2.3,40,13.3,Lunch
+Fish Curry,167,12.6,24,8.5,Dinner
+Pakora,332,3.4,33,18.6,Snack
+Barfi,372,13.1,31,13.7,Dessert
+Chilla,369,14.7,16,18.8,Breakfast
+Dal Makhani,364,2.1,10,2.4,Lunch
+Bhindi Masala,335,3.6,23,10.7,Dinner
+Momos,255,4.4,23,17.3,Snack
+Kulfi,280,8.9,47,16.7,Dessert
+Misal Pav,274,7.1,43,16.3,Breakfast
+Sambar Rice,351,8.2,27,8.4,Lunch
+Butter Chicken,269,7.4,13,4.3,Dinner
+Samosa,370,9.6,38,4.1,Snack
+Rabri,319,10.0,33,2.6,Dessert
+Aloo Paratha,371,7.6,27,14.3,Breakfast
+Lemon Rice,305,6.3,45,9.3,Lunch
+Fish Curry,282,3.5,49,15.0,Dinner
+Sev Puri,335,14.1,14,14.4,Snack
+Peda,185,6.6,30,1.2,Dessert
+Chilla,245,3.6,34,8.5,Breakfast
+Lemon Rice,218,7.5,45,5.7,Lunch
+Butter Chicken,343,14.7,16,10.9,Dinner
+Momos,156,5.9,28,19.0,Snack
+Barfi,290,7.2,20,5.0,Dessert
+Poha,352,12.0,36,12.7,Breakfast
+Vegetable Biryani,158,9.7,25,13.8,Lunch
+Fish Curry,385,8.1,28,9.2,Dinner
+Chaat,143,3.7,12,18.1,Snack
+Jalebi,145,9.5,12,15.8,Dessert
+Medu Vada,348,14.1,35,4.2,Breakfast
+Baingan Bharta,225,3.3,38,16.2,Lunch
+Bhindi Masala,108,11.7,26,1.4,Dinner
+Kachori,297,12.3,48,14.9,Snack
+Ladoo,310,2.2,24,13.4,Dessert
+Chilla,384,3.9,31,7.7,Breakfast
+Chole,179,6.7,24,1.7,Lunch
+Fish Curry,279,10.2,21,18.9,Dinner
+Samosa,242,9.4,50,12.9,Snack
+Rabri,186,5.9,15,10.3,Dessert
+Medu Vada,188,14.4,46,19.2,Breakfast
+Chole,369,7.2,34,5.8,Lunch
+Paneer Bhurji,373,4.9,14,16.5,Dinner
+Chaat,125,3.0,38,1.5,Snack
+Gulab Jamun,181,4.7,46,8.0,Dessert
+Idli,373,3.0,42,4.2,Breakfast
+Chole,148,3.3,33,19.3,Lunch
+Bhindi Masala,352,13.3,31,9.4,Dinner
+Momos,278,8.3,15,5.2,Snack
+Rasgulla,347,7.0,38,15.9,Dessert
+Aloo Paratha,373,11.9,35,6.9,Breakfast
+Lemon Rice,175,4.7,26,1.6,Lunch
+Jeera Rice,262,6.4,37,12.9,Dinner
+Pakora,190,9.7,35,4.7,Snack
+Kheer,225,5.4,15,14.9,Dessert
+Pongal,117,8.3,47,14.3,Breakfast
+Vegetable Biryani,278,2.3,18,11.7,Lunch
+Jeera Rice,350,12.1,30,14.4,Dinner
+Dhokla,149,2.8,23,19.9,Snack
+Peda,280,7.1,23,10.6,Dessert
+Vada Pav,172,3.6,20,14.5,Breakfast
+Vegetable Biryani,306,4.8,10,19.4,Lunch
+Palak Paneer,319,9.5,48,8.5,Dinner
+Momos,376,3.5,49,8.7,Snack
+Peda,209,5.3,21,1.9,Dessert
+Pongal,310,11.6,36,12.9,Breakfast
+Baingan Bharta,262,9.7,24,3.4,Lunch
+Fish Curry,105,7.0,23,12.4,Dinner
+Kachori,250,10.8,27,12.6,Snack
+Ladoo,227,12.5,19,17.4,Dessert
+Dosa,127,3.0,25,17.1,Breakfast
+Rajma,210,6.2,11,7.5,Lunch
+Dal Tadka,151,13.5,24,13.0,Dinner
+Sev Puri,194,4.6,40,15.1,Snack
+Gulab Jamun,283,11.8,11,8.4,Dessert
+Chilla,393,4.6,21,16.9,Breakfast
+Dal Makhani,127,8.5,18,2.9,Lunch
+Fish Curry,126,2.9,38,3.7,Dinner
+Bhel Puri,273,9.4,18,2.5,Snack
+Barfi,349,9.2,13,18.2,Dessert
+Vada Pav,376,5.7,42,3.4,Breakfast
+Rajma,130,12.9,29,17.3,Lunch
+Paneer Bhurji,134,6.4,11,18.9,Dinner
+Bhel Puri,264,10.3,31,13.8,Snack
+Ladoo,338,14.9,35,15.4,Dessert
+Idli,278,8.0,16,13.5,Breakfast
+Rajma,276,8.4,32,14.8,Lunch
+Mutton Curry,166,5.5,48,6.7,Dinner
+Sev Puri,262,14.0,22,16.7,Snack
+Ladoo,149,4.1,20,15.1,Dessert
+Vada Pav,107,8.0,44,15.2,Breakfast
+Dal Makhani,137,2.5,25,6.9,Lunch
+Jeera Rice,227,3.3,22,3.1,Dinner
+Dhokla,218,11.2,43,1.2,Snack
+Kheer,200,10.5,33,8.3,Dessert
+Chilla,386,5.7,49,5.3,Breakfast
+Chole,326,9.0,25,16.4,Lunch
+Paneer Bhurji,263,2.5,23,12.4,Dinner
+Dhokla,323,4.6,10,3.6,Snack
+Kulfi,344,9.1,16,6.8,Dessert
+Aloo Paratha,197,11.5,11,17.9,Breakfast
+Lemon Rice,172,12.7,16,10.8,Lunch
+Jeera Rice,105,3.1,36,9.0,Dinner
+Samosa,359,6.6,29,16.8,Snack
+Kulfi,274,14.1,13,1.2,Dessert
+Misal Pav,252,6.6,44,1.6,Breakfast
+Chole,179,5.3,14,7.7,Lunch
+Palak Paneer,204,7.8,31,12.5,Dinner
+Momos,328,13.0,33,9.8,Snack
+Kulfi,129,4.8,25,5.8,Dessert
+Medu Vada,236,9.0,48,1.3,Breakfast
+Lemon Rice,394,3.6,27,15.7,Lunch
+Mutton Curry,305,9.4,32,18.5,Dinner
+Chaat,185,14.2,25,12.1,Snack
+Rasgulla,392,9.3,41,5.7,Dessert
+Aloo Paratha,377,6.7,45,4.8,Breakfast
+Baingan Bharta,157,14.7,20,10.6,Lunch
+Dal Tadka,375,2.9,46,11.9,Dinner
+Samosa,321,10.8,33,8.1,Snack
+Kulfi,341,10.9,27,19.0,Dessert
+Aloo Paratha,365,8.2,31,12.4,Breakfast
+Vegetable Biryani,233,10.3,44,14.6,Lunch
+Jeera Rice,129,11.1,14,18.8,Dinner
+Samosa,154,12.6,28,10.6,Snack
+Kulfi,126,5.2,27,8.7,Dessert
+Vada Pav,167,8.8,14,14.4,Breakfast
+Vegetable Biryani,133,2.6,18,11.8,Lunch
+Bhindi Masala,348,9.6,40,9.6,Dinner
+Bhel Puri,232,13.4,19,9.0,Snack
+Barfi,262,2.6,38,18.8,Dessert
+Poha,332,2.8,19,8.5,Breakfast
+Paneer Butter Masala,181,9.8,21,12.2,Lunch
+Bhindi Masala,176,10.8,40,11.7,Dinner
+Chaat,297,4.3,37,3.5,Snack
+Kheer,164,9.4,22,2.6,Dessert
+Vada Pav,248,6.6,27,15.1,Breakfast
+Vegetable Biryani,121,3.9,32,3.0,Lunch
+Butter Chicken,308,9.6,41,10.0,Dinner
+Momos,363,4.7,17,14.8,Snack
+Ladoo,292,8.1,43,16.4,Dessert
+Upma,267,14.4,24,4.6,Breakfast
+Sambar Rice,150,7.1,25,3.6,Lunch
+Dal Tadka,156,8.7,15,6.9,Dinner
+Samosa,129,5.6,27,14.8,Snack
+Rabri,214,8.7,14,11.4,Dessert
+Dosa,255,5.2,15,19.5,Breakfast
+Dal Makhani,256,11.1,23,1.7,Lunch
+Butter Chicken,267,3.9,36,5.2,Dinner
+Bhel Puri,385,6.2,24,10.5,Snack
+Ladoo,102,3.4,11,10.8,Dessert
+Upma,162,5.9,27,15.5,Breakfast
+Rajma,274,8.4,30,3.9,Lunch
+Palak Paneer,250,7.2,11,14.2,Dinner
+Kachori,136,12.6,18,16.4,Snack
+Rasgulla,334,11.6,50,14.9,Dessert
+Aloo Paratha,128,14.3,19,17.5,Breakfast
+Sambar Rice,213,12.5,42,8.4,Lunch
+Dal Tadka,313,6.1,24,11.8,Dinner
+Momos,129,9.7,28,6.4,Snack
+Jalebi,212,5.4,28,1.1,Dessert
+Idli,342,8.7,47,7.5,Breakfast
+Vegetable Biryani,298,11.8,19,2.3,Lunch
+Paneer Bhurji,292,6.9,48,4.1,Dinner
+Bhel Puri,374,11.8,40,6.6,Snack
+Rabri,219,4.3,39,7.5,Dessert
+Medu Vada,391,9.1,36,4.0,Breakfast
+Paneer Butter Masala,178,15.0,26,15.7,Lunch
+Bhindi Masala,332,14.2,43,13.4,Dinner
+Chaat,184,12.2,28,8.1,Snack
+Gulab Jamun,296,7.5,43,1.2,Dessert
+Medu Vada,252,5.2,45,8.8,Breakfast
+Baingan Bharta,256,13.4,16,18.3,Lunch
+Paneer Bhurji,323,13.7,37,13.5,Dinner
+Sev Puri,306,14.9,26,2.0,Snack
+Jalebi,136,3.7,18,10.5,Dessert
+Misal Pav,254,14.7,38,10.8,Breakfast
+Vegetable Biryani,108,6.3,32,9.3,Lunch
+Bhindi Masala,276,8.8,12,15.6,Dinner
+Kachori,173,12.9,43,16.0,Snack
+Rabri,391,4.9,49,19.0,Dessert
+Dosa,245,6.6,37,18.5,Breakfast
+Sambar Rice,179,6.0,49,12.4,Lunch
+Paneer Bhurji,233,4.2,41,9.6,Dinner
+Masala Papad,333,6.3,23,19.4,Snack
+Rabri,189,5.0,26,8.1,Dessert
+Poha,170,6.5,37,1.5,Breakfast
+Dal Makhani,179,3.5,45,13.3,Lunch
+Fish Curry,383,3.6,11,14.3,Dinner
+Pakora,321,6.9,31,15.1,Snack
+Rabri,258,11.9,43,14.5,Dessert
+Vada Pav,111,5.8,35,11.0,Breakfast
+Dal Makhani,296,6.8,15,7.3,Lunch
+Dal Tadka,338,11.4,12,17.0,Dinner
+Bhel Puri,110,10.6,20,16.7,Snack
+Kheer,399,3.9,42,15.4,Dessert
+Medu Vada,277,11.4,11,19.0,Breakfast
+Rajma,258,14.0,13,15.6,Lunch
+Bhindi Masala,360,13.2,24,1.5,Dinner
+Momos,148,9.9,50,8.6,Snack
+Gulab Jamun,110,14.2,32,4.8,Dessert
+Misal Pav,375,7.6,47,14.4,Breakfast
+Dal Makhani,140,6.6,11,19.7,Lunch
+Dal Tadka,354,9.6,16,8.1,Dinner
+Sev Puri,169,4.3,23,5.0,Snack
+Jalebi,141,9.6,17,4.3,Dessert
+Aloo Paratha,327,3.3,31,19.3,Breakfast
+Paneer Butter Masala,286,14.6,46,14.2,Lunch
+Jeera Rice,359,14.4,29,15.7,Dinner
+Pakora,376,7.9,36,14.6,Snack
+Rasgulla,256,5.1,31,1.4,Dessert
+Idli,173,5.6,50,10.8,Breakfast
+Baingan Bharta,248,7.4,13,19.4,Lunch
+Dal Tadka,274,12.4,19,16.9,Dinner
+Chaat,105,14.7,47,18.2,Snack
+Rasgulla,298,9.8,36,16.9,Dessert
+Misal Pav,241,5.0,43,13.2,Breakfast
+Baingan Bharta,106,6.4,12,9.1,Lunch
+Mutton Curry,256,12.0,44,5.2,Dinner
+Pakora,284,8.4,21,7.7,Snack
+Jalebi,371,6.1,44,9.3,Dessert
+Upma,400,11.7,48,18.7,Breakfast
+Vegetable Biryani,394,3.9,25,12.6,Lunch
+Dal Tadka,355,4.2,28,15.3,Dinner
+Sev Puri,205,9.4,28,4.6,Snack
+Rasgulla,372,9.7,16,1.6,Dessert
+Upma,109,4.5,50,7.2,Breakfast
+Rajma,375,13.9,40,12.0,Lunch
+Fish Curry,128,6.4,39,12.8,Dinner
+Dhokla,164,9.1,15,11.4,Snack
+Jalebi,238,11.4,48,14.7,Dessert
+Dosa,236,2.4,40,8.6,Breakfast
+Baingan Bharta,299,7.1,26,8.0,Lunch
+Palak Paneer,266,11.0,35,17.0,Dinner
+Samosa,362,5.9,15,11.1,Snack
+Ladoo,158,4.0,41,16.0,Dessert
+Misal Pav,297,13.3,20,13.2,Breakfast
+Lemon Rice,181,10.9,42,5.6,Lunch
+Butter Chicken,276,14.1,49,11.9,Dinner
+Pakora,377,14.4,29,11.2,Snack
+Rabri,369,11.6,21,11.9,Dessert
+Vada Pav,370,3.8,25,19.6,Breakfast
+Vegetable Biryani,163,4.1,25,1.9,Lunch
+Dal Tadka,303,7.9,11,5.1,Dinner
+Masala Papad,204,2.1,29,14.6,Snack
+Barfi,129,13.0,18,16.0,Dessert
+Vada Pav,344,2.3,30,10.6,Breakfast
+Dal Makhani,331,8.6,43,4.9,Lunch
+Mutton Curry,241,9.2,44,16.8,Dinner
+Chaat,329,10.4,40,14.9,Snack
+Gulab Jamun,385,2.2,21,16.5,Dessert
+Aloo Paratha,307,10.0,30,7.5,Breakfast
+Rajma,164,6.2,33,6.9,Lunch
+Bhindi Masala,200,3.2,21,2.0,Dinner
+Momos,334,9.2,36,15.4,Snack
+Peda,154,14.0,13,3.0,Dessert
+Vada Pav,279,12.7,36,16.6,Breakfast
+Lemon Rice,190,9.4,19,5.4,Lunch
+Mutton Curry,295,14.8,12,4.1,Dinner
+Bhel Puri,272,10.5,14,16.9,Snack
+Rabri,197,5.1,15,19.3,Dessert
+Medu Vada,248,3.3,19,20.0,Breakfast
+Vegetable Biryani,249,10.0,28,17.8,Lunch
+Palak Paneer,171,12.9,49,19.8,Dinner
+Dhokla,273,2.5,34,14.8,Snack
+Kulfi,185,9.1,22,17.6,Dessert
+Dosa,306,9.4,40,6.9,Breakfast
+Vegetable Biryani,218,15.0,36,11.1,Lunch
+Fish Curry,331,5.6,13,9.6,Dinner
+Bhel Puri,347,5.3,44,16.3,Snack
+Gulab Jamun,219,12.0,45,9.4,Dessert
+Medu Vada,256,7.0,18,7.0,Breakfast
+Sambar Rice,268,10.7,32,17.3,Lunch
+Bhindi Masala,241,3.3,45,4.9,Dinner
+Samosa,298,13.4,27,8.5,Snack
+Gulab Jamun,174,8.5,39,8.7,Dessert
+Dosa,311,4.9,19,14.2,Breakfast
+Paneer Butter Masala,370,14.8,26,4.3,Lunch
+Paneer Bhurji,244,14.8,13,18.7,Dinner
+Sev Puri,182,4.1,46,6.3,Snack
+Kheer,296,2.5,35,12.0,Dessert
+Upma,306,9.8,17,8.1,Breakfast
+Vegetable Biryani,314,14.0,39,8.7,Lunch
+Mutton Curry,286,4.2,18,12.9,Dinner
+Masala Papad,118,7.8,11,5.6,Snack
+Rabri,181,2.8,33,11.0,Dessert
+Misal Pav,361,2.9,23,14.8,Breakfast
+Chole,384,13.3,18,3.4,Lunch
+Dal Tadka,219,9.1,29,9.0,Dinner
+Bhel Puri,365,5.1,18,6.6,Snack
+Kheer,376,11.5,13,19.6,Dessert
+Medu Vada,359,14.1,44,8.2,Breakfast
+Vegetable Biryani,319,3.4,29,13.4,Lunch
+Butter Chicken,266,14.3,15,11.4,Dinner
+Masala Papad,374,9.7,21,15.9,Snack
+Kheer,213,10.6,16,3.0,Dessert
+Vada Pav,242,10.0,33,11.7,Breakfast
+Dal Makhani,153,8.1,21,15.3,Lunch
+Palak Paneer,266,13.3,22,7.5,Dinner
+Kachori,102,10.7,31,11.5,Snack
+Ladoo,161,11.7,36,17.4,Dessert
+Chilla,285,5.2,27,7.2,Breakfast
+Baingan Bharta,172,4.0,11,7.4,Lunch
+Mutton Curry,250,8.4,28,18.7,Dinner
+Kachori,189,8.7,45,1.8,Snack
+Kheer,397,7.1,36,1.1,Dessert
+Idli,196,7.7,40,11.7,Breakfast
+Rajma,297,9.7,14,18.4,Lunch
+Butter Chicken,387,6.2,15,9.2,Dinner
+Samosa,354,14.2,18,5.5,Snack
+Rabri,150,11.0,11,10.4,Dessert
+Aloo Paratha,359,14.8,31,10.3,Breakfast
+Lemon Rice,229,9.0,40,1.8,Lunch
+Palak Paneer,122,5.8,23,10.8,Dinner
+Kachori,120,11.3,19,12.7,Snack
+Gulab Jamun,149,9.7,46,16.8,Dessert
+Upma,210,9.2,48,19.2,Breakfast
+Baingan Bharta,117,7.7,16,7.9,Lunch
+Jeera Rice,167,15.0,42,16.3,Dinner
+Dhokla,314,4.1,31,19.5,Snack
+Peda,230,8.7,35,6.1,Dessert
+Idli,146,12.3,35,18.7,Breakfast
+Chole,263,14.6,29,9.2,Lunch
+Jeera Rice,100,10.1,30,1.3,Dinner
+Masala Papad,369,8.9,21,5.7,Snack
+Peda,342,12.8,15,19.6,Dessert
+Poha,323,4.3,34,5.1,Breakfast
+Sambar Rice,222,6.4,14,10.0,Lunch
+Jeera Rice,313,3.2,38,12.9,Dinner
+Kachori,159,6.3,10,6.1,Snack
+Ladoo,105,6.4,41,7.5,Dessert
+Chilla,318,7.8,10,19.3,Breakfast
+Baingan Bharta,306,12.4,12,4.4,Lunch
+Butter Chicken,375,12.2,42,18.8,Dinner
+Samosa,100,7.4,40,17.4,Snack
+Gulab Jamun,336,12.2,37,8.0,Dessert
+Pongal,174,9.4,45,3.2,Breakfast
+Sambar Rice,238,6.7,14,14.0,Lunch
+Palak Paneer,142,7.6,19,11.6,Dinner
+Momos,371,5.0,31,9.7,Snack
+Rasgulla,128,13.2,47,1.3,Dessert
+Chilla,126,11.4,47,16.8,Breakfast
+Chole,276,6.8,48,1.8,Lunch
+Dal Tadka,395,8.8,15,3.8,Dinner
+Masala Papad,184,6.3,20,4.5,Snack
+Peda,221,2.7,47,4.9,Dessert
+Upma,257,6.2,21,12.6,Breakfast
+Lemon Rice,101,9.8,14,11.5,Lunch
+Bhindi Masala,258,10.0,49,19.1,Dinner
+Sev Puri,302,6.8,31,8.1,Snack
+Rasgulla,319,14.2,21,11.8,Dessert
+Medu Vada,186,12.3,20,1.3,Breakfast
+Sambar Rice,372,7.2,11,8.9,Lunch
+Paneer Bhurji,280,2.2,26,18.2,Dinner
+Momos,318,9.2,11,13.8,Snack
+Kheer,231,3.5,34,15.9,Dessert
+Aloo Paratha,272,5.2,48,2.6,Breakfast
+Dal Makhani,366,6.4,42,14.1,Lunch
+Butter Chicken,324,5.3,44,13.3,Dinner
+Dhokla,332,10.7,46,10.2,Snack
+Kulfi,198,5.7,18,14.1,Dessert
+Upma,133,8.7,15,8.5,Breakfast
+Dal Makhani,303,13.1,42,17.8,Lunch
+Paneer Bhurji,276,13.4,37,12.6,Dinner
+Chaat,327,8.0,10,7.5,Snack
+Peda,372,9.7,12,5.4,Dessert
+Misal Pav,204,11.4,14,11.5,Breakfast
+Chole,379,7.3,42,15.5,Lunch
+Butter Chicken,132,7.1,21,17.5,Dinner
+Masala Papad,216,7.8,27,9.7,Snack
+Barfi,102,13.0,27,8.0,Dessert
+Chilla,304,5.5,46,1.1,Breakfast
+Paneer Butter Masala,295,9.5,37,1.9,Lunch
+Dal Tadka,261,8.3,38,6.8,Dinner
+Chaat,140,13.0,13,11.5,Snack
+Rasgulla,380,2.8,15,12.9,Dessert
+Vada Pav,134,12.9,16,5.6,Breakfast
+Sambar Rice,397,8.4,17,15.1,Lunch
+Bhindi Masala,184,9.0,50,9.1,Dinner
+Masala Papad,308,13.9,29,5.3,Snack
+Gulab Jamun,238,14.4,24,9.0,Dessert
+Chilla,230,7.7,26,13.5,Breakfast
+Baingan Bharta,109,4.9,30,11.8,Lunch
+Jeera Rice,314,8.0,19,10.2,Dinner
+Chaat,337,12.1,32,19.0,Snack
+Peda,210,6.2,18,8.4,Dessert
+Upma,325,5.1,31,4.5,Breakfast
+Dal Makhani,274,10.5,43,10.6,Lunch
+Paneer Bhurji,168,12.8,25,1.8,Dinner
+Bhel Puri,313,6.6,44,17.3,Snack
+Barfi,283,10.3,22,17.6,Dessert
+Chilla,290,6.1,24,5.8,Breakfast
+Paneer Butter Masala,216,6.9,19,4.6,Lunch
+Jeera Rice,355,10.9,35,8.4,Dinner
+Dhokla,200,10.0,34,18.9,Snack
+Gulab Jamun,191,6.2,13,17.6,Dessert
+Vada Pav,265,10.4,19,2.8,Breakfast
+Chole,351,12.8,11,10.2,Lunch
+Butter Chicken,178,11.1,14,6.5,Dinner
+Bhel Puri,364,14.6,47,2.4,Snack
+Barfi,140,5.1,23,4.9,Dessert
+Medu Vada,190,6.7,12,1.8,Breakfast
+Chole,213,6.6,25,6.5,Lunch
+Mutton Curry,357,3.1,47,2.3,Dinner
+Kachori,148,6.4,24,9.8,Snack
+Peda,346,6.0,15,11.5,Dessert
+Upma,340,4.9,36,13.6,Breakfast
+Vegetable Biryani,395,14.7,34,16.0,Lunch
+Jeera Rice,281,8.6,34,15.8,Dinner
+Samosa,223,11.8,40,2.6,Snack
+Gulab Jamun,208,7.3,41,6.2,Dessert
+Dosa,281,9.0,11,4.3,Breakfast
+Sambar Rice,152,7.9,40,12.4,Lunch
+Palak Paneer,334,4.3,20,18.4,Dinner
+Bhel Puri,128,13.9,20,18.5,Snack
+Gulab Jamun,279,5.9,45,15.9,Dessert
+Poha,247,13.4,36,3.0,Breakfast
+Paneer Butter Masala,353,6.5,22,18.9,Lunch
+Butter Chicken,247,13.7,17,6.3,Dinner
+Chaat,220,14.8,16,15.6,Snack
+Rabri,382,7.0,25,10.3,Dessert
+Medu Vada,113,3.3,48,14.6,Breakfast
+Lemon Rice,184,6.1,17,15.0,Lunch
+Bhindi Masala,262,2.7,27,18.4,Dinner
+Kachori,366,8.3,18,18.6,Snack
+Barfi,326,14.8,27,1.5,Dessert
+Dosa,392,4.0,16,8.9,Breakfast
+Vegetable Biryani,119,9.1,23,4.2,Lunch
+Dal Tadka,135,13.4,41,8.3,Dinner
+Samosa,392,8.3,30,15.2,Snack
+Ladoo,303,4.0,24,9.5,Dessert
+Poha,221,9.9,33,16.5,Breakfast
+Chole,342,4.6,24,11.6,Lunch
+Dal Tadka,181,2.4,40,18.9,Dinner
+Kachori,236,13.5,26,17.7,Snack
+Peda,399,8.0,25,10.4,Dessert
+Dosa,280,4.7,49,13.2,Breakfast
+Rajma,375,2.9,37,12.7,Lunch
+Dal Tadka,329,14.7,22,2.6,Dinner
+Dhokla,141,11.5,18,17.4,Snack
+Kulfi,225,5.3,33,4.1,Dessert
+Pongal,139,9.2,16,1.5,Breakfast
+Chole,173,2.2,48,18.0,Lunch
+Jeera Rice,398,13.8,33,18.6,Dinner
+Pakora,171,11.7,24,14.7,Snack
+Barfi,180,8.0,27,10.8,Dessert
+Aloo Paratha,383,12.1,43,2.6,Breakfast
+Dal Makhani,313,9.0,12,18.8,Lunch
+Paneer Bhurji,355,13.1,42,2.5,Dinner
+Masala Papad,217,12.1,27,15.1,Snack
+Kheer,110,4.3,43,14.2,Dessert
+Pongal,223,7.0,42,6.8,Breakfast
+Paneer Butter Masala,140,9.0,17,5.6,Lunch
+Bhindi Masala,311,10.5,23,2.7,Dinner
+Pakora,167,8.5,16,8.7,Snack
+Kheer,314,10.1,42,5.2,Dessert
+Vada Pav,190,8.9,34,3.3,Breakfast
+Lemon Rice,350,8.9,41,10.7,Lunch
+Dal Tadka,248,12.9,34,6.7,Dinner
+Sev Puri,354,5.9,44,5.1,Snack
+Barfi,199,7.7,49,13.3,Dessert
+Misal Pav,302,8.1,31,14.5,Breakfast
+Chole,249,9.1,13,6.6,Lunch
+Butter Chicken,370,7.1,49,13.0,Dinner
+Kachori,326,9.4,40,7.3,Snack
+Rasgulla,256,11.8,42,13.5,Dessert
+Medu Vada,145,4.6,11,18.3,Breakfast
+Vegetable Biryani,242,14.8,23,8.3,Lunch
+Fish Curry,291,12.5,32,11.2,Dinner
+Pakora,288,13.6,43,5.3,Snack
+Gulab Jamun,280,3.6,24,11.2,Dessert
+Medu Vada,243,14.3,19,6.3,Breakfast
+Vegetable Biryani,302,5.7,34,9.1,Lunch
+Palak Paneer,103,4.6,12,15.5,Dinner
+Momos,341,6.5,29,15.9,Snack
+Ladoo,187,11.6,14,11.8,Dessert
+Chilla,181,7.3,33,15.5,Breakfast
+Rajma,187,14.2,42,13.6,Lunch
+Mutton Curry,174,10.7,11,7.8,Dinner
+Bhel Puri,388,6.0,18,7.9,Snack
+Peda,263,12.7,10,16.5,Dessert
+Aloo Paratha,119,12.5,14,11.2,Breakfast
+Vegetable Biryani,311,10.6,28,13.0,Lunch
+Fish Curry,269,8.8,41,6.1,Dinner
+Pakora,249,12.3,22,1.6,Snack
+Jalebi,366,8.6,48,18.2,Dessert
+Medu Vada,114,5.3,44,11.9,Breakfast
+Rajma,127,5.6,32,17.0,Lunch
+Fish Curry,379,4.0,48,3.3,Dinner
+Kachori,191,6.7,16,10.9,Snack
+Kheer,362,14.0,12,13.5,Dessert
+Aloo Paratha,100,11.5,31,11.7,Breakfast
+Dal Makhani,163,9.1,20,9.7,Lunch
+Fish Curry,359,7.0,23,2.0,Dinner
+Sev Puri,102,12.6,14,10.9,Snack
+Peda,242,9.4,18,1.1,Dessert
+Medu Vada,170,2.9,30,1.8,Breakfast
+Vegetable Biryani,130,12.0,24,9.3,Lunch
+Butter Chicken,373,5.0,24,3.7,Dinner
+Pakora,145,9.9,46,14.6,Snack
+Gulab Jamun,109,13.4,25,13.3,Dessert
+Vada Pav,205,8.9,19,6.1,Breakfast
+Chole,395,10.0,23,6.9,Lunch
+Dal Tadka,343,9.1,29,19.9,Dinner
+Bhel Puri,100,4.3,30,14.6,Snack
+Peda,318,11.6,23,8.2,Dessert
+Pongal,307,8.3,23,12.6,Breakfast
+Lemon Rice,249,11.3,48,13.5,Lunch
+Mutton Curry,303,5.7,23,2.6,Dinner
+Sev Puri,387,10.0,44,17.4,Snack
+Peda,396,6.2,17,15.4,Dessert
+Pongal,266,13.4,12,18.2,Breakfast
+Paneer Butter Masala,224,13.6,12,1.8,Lunch
+Jeera Rice,287,13.3,30,2.5,Dinner
+Momos,264,12.5,50,19.6,Snack
+Kheer,284,6.7,41,9.0,Dessert
+Idli,123,4.0,16,2.2,Breakfast
+Lemon Rice,115,8.8,24,19.8,Lunch
+Fish Curry,193,10.4,17,6.7,Dinner
+Pakora,306,8.6,22,1.2,Snack
+Peda,112,2.1,35,18.8,Dessert
+Vada Pav,385,9.4,29,9.2,Breakfast
+Sambar Rice,308,13.5,50,13.7,Lunch
+Paneer Bhurji,160,8.4,50,13.8,Dinner
+Masala Papad,135,4.8,12,9.6,Snack
+Jalebi,224,12.8,12,8.2,Dessert
+Misal Pav,284,12.7,22,16.7,Breakfast
+Dal Makhani,390,13.9,28,16.4,Lunch
+Jeera Rice,300,6.5,19,14.4,Dinner
+Momos,105,5.2,38,18.2,Snack
+Rasgulla,298,3.2,42,11.5,Dessert
+Vada Pav,181,15.0,36,16.8,Breakfast
+Dal Makhani,168,4.8,18,8.3,Lunch
+Mutton Curry,400,3.2,20,19.1,Dinner
+Masala Papad,103,3.1,15,3.4,Snack
+Ladoo,259,8.4,31,1.1,Dessert
+Vada Pav,208,5.4,48,3.1,Breakfast
+Lemon Rice,107,7.0,14,18.0,Lunch
+Fish Curry,170,9.7,49,15.0,Dinner
+Dhokla,238,12.2,25,14.6,Snack
+Kheer,112,10.5,48,1.3,Dessert
+Idli,344,12.8,35,18.8,Breakfast
+Chole,284,8.0,30,10.3,Lunch
+Fish Curry,227,7.0,28,9.5,Dinner
+Dhokla,185,12.1,38,4.5,Snack
+Rasgulla,133,4.8,11,10.2,Dessert
+Aloo Paratha,128,11.9,38,14.9,Breakfast
+Rajma,177,12.2,22,1.1,Lunch
+Paneer Bhurji,329,11.8,34,10.1,Dinner
+Kachori,391,2.2,49,15.5,Snack
+Rabri,355,10.7,20,1.3,Dessert
+Upma,339,3.2,22,14.3,Breakfast
+Rajma,190,4.5,28,3.4,Lunch
+Jeera Rice,111,8.8,42,8.2,Dinner
+Momos,238,12.2,14,2.5,Snack
+Ladoo,114,13.9,40,7.7,Dessert
+Aloo Paratha,275,4.4,22,4.4,Breakfast
+Paneer Butter Masala,129,10.9,36,3.0,Lunch
+Dal Tadka,251,2.8,33,11.5,Dinner
+Chaat,116,11.4,27,4.2,Snack
+Peda,388,14.7,49,11.7,Dessert
+Dosa,302,13.8,43,5.4,Breakfast
+Chole,370,3.3,47,12.9,Lunch
+Palak Paneer,190,14.1,36,10.0,Dinner
+Samosa,347,4.4,35,3.8,Snack
+Kulfi,238,14.9,17,13.4,Dessert
+Aloo Paratha,290,11.9,22,3.7,Breakfast
+Chole,386,6.8,34,5.0,Lunch
+Palak Paneer,188,8.1,14,4.6,Dinner
+Bhel Puri,202,4.5,13,2.8,Snack
+Barfi,179,9.5,42,5.4,Dessert
+Upma,162,10.7,29,13.9,Breakfast
+Paneer Butter Masala,196,6.8,49,11.4,Lunch
+Bhindi Masala,308,14.3,37,14.1,Dinner
+Sev Puri,238,2.8,35,6.2,Snack
+Rasgulla,318,12.4,32,16.9,Dessert
+Poha,237,10.4,20,5.6,Breakfast
+Paneer Butter Masala,359,14.8,40,16.9,Lunch
+Bhindi Masala,231,8.1,20,8.8,Dinner
+Samosa,238,6.4,50,13.4,Snack
+Ladoo,326,4.5,49,13.1,Dessert
+Aloo Paratha,316,11.3,43,7.5,Breakfast
+Vegetable Biryani,200,13.8,32,11.4,Lunch
+Jeera Rice,381,3.5,44,15.0,Dinner
+Samosa,349,8.6,31,1.6,Snack
+Rasgulla,353,8.8,34,8.8,Dessert
+Upma,322,13.1,19,8.2,Breakfast
+Chole,233,10.7,25,19.6,Lunch
+Palak Paneer,126,2.3,31,18.3,Dinner
+Momos,291,2.5,33,8.7,Snack
+Rasgulla,277,6.4,34,15.9,Dessert
+Misal Pav,102,9.1,32,14.7,Breakfast
+Baingan Bharta,298,5.2,19,17.7,Lunch
+Mutton Curry,269,4.0,16,19.6,Dinner
+Dhokla,195,10.7,24,3.2,Snack
+Barfi,350,5.0,47,15.4,Dessert
+Aloo Paratha,143,7.0,18,5.1,Breakfast
+Dal Makhani,327,7.4,26,3.0,Lunch
+Butter Chicken,108,5.3,49,16.1,Dinner
+Bhel Puri,135,3.2,18,12.4,Snack
+Peda,206,10.3,44,17.0,Dessert
+Idli,174,4.5,17,9.9,Breakfast
+Sambar Rice,364,8.1,15,19.1,Lunch
+Bhindi Masala,169,5.7,13,18.6,Dinner
+Chaat,196,5.0,26,11.4,Snack
+Kheer,391,6.2,33,9.6,Dessert
+Dosa,313,5.3,15,6.8,Breakfast
+Vegetable Biryani,382,13.9,34,9.2,Lunch
+Paneer Bhurji,158,13.2,29,1.6,Dinner
+Masala Papad,222,5.4,11,19.2,Snack
+Ladoo,163,3.2,15,17.2,Dessert
+Misal Pav,325,8.4,23,7.2,Breakfast
+Vegetable Biryani,272,14.0,44,8.7,Lunch
+Bhindi Masala,121,14.7,20,8.1,Dinner
+Chaat,269,9.9,35,11.6,Snack
+Peda,120,12.9,21,16.1,Dessert
+Upma,339,2.1,31,19.9,Breakfast
+Sambar Rice,156,5.8,49,1.9,Lunch
+Butter Chicken,359,6.3,13,19.1,Dinner
+Kachori,345,13.3,11,3.2,Snack
+Barfi,273,9.1,20,14.6,Dessert
+Chilla,205,10.8,14,16.1,Breakfast
+Chole,294,7.2,35,3.1,Lunch
+Mutton Curry,381,8.6,31,19.9,Dinner
+Bhel Puri,328,5.0,11,9.1,Snack
+Ladoo,164,7.6,27,9.1,Dessert
+Upma,307,11.5,31,12.8,Breakfast
+Vegetable Biryani,163,8.6,28,2.2,Lunch
+Jeera Rice,289,9.0,45,10.2,Dinner
+Samosa,130,6.3,21,4.1,Snack
+Kheer,295,8.1,16,15.0,Dessert
+Vada Pav,184,3.7,45,8.8,Breakfast
+Baingan Bharta,257,13.7,47,3.5,Lunch
+Bhindi Masala,271,2.9,26,14.3,Dinner
+Dhokla,348,13.7,36,14.5,Snack
+Ladoo,323,8.8,24,4.9,Dessert
+Poha,111,12.6,41,18.5,Breakfast
+Chole,219,9.1,15,4.8,Lunch
+Paneer Bhurji,105,8.0,35,15.5,Dinner
+Bhel Puri,364,4.2,40,8.5,Snack
+Gulab Jamun,276,6.5,42,1.0,Dessert
+Poha,315,14.8,11,7.8,Breakfast
+Lemon Rice,197,3.4,49,9.0,Lunch
+Jeera Rice,242,5.8,12,19.8,Dinner
+Masala Papad,232,6.8,15,17.7,Snack
+Jalebi,249,3.0,28,4.2,Dessert
+Aloo Paratha,296,12.0,37,8.2,Breakfast
+Sambar Rice,147,9.0,23,1.3,Lunch
+Dal Tadka,370,2.8,32,2.6,Dinner
+Sev Puri,109,12.7,34,16.9,Snack
+Kulfi,386,14.7,48,13.8,Dessert
+Chilla,352,14.6,13,12.6,Breakfast
+Vegetable Biryani,248,7.3,41,16.9,Lunch
+Mutton Curry,381,5.6,27,2.2,Dinner
+Masala Papad,177,13.6,14,2.0,Snack
+Rabri,350,6.5,25,3.1,Dessert
+Idli,210,9.0,30,7.2,Breakfast
+Paneer Butter Masala,102,10.6,42,20.0,Lunch
+Jeera Rice,148,12.6,13,4.1,Dinner
+Samosa,341,2.8,34,1.3,Snack
+Jalebi,399,8.7,34,14.9,Dessert
+Misal Pav,339,3.3,46,14.3,Breakfast
+Lemon Rice,157,12.1,10,3.0,Lunch
+Bhindi Masala,323,12.2,10,13.1,Dinner
+Chaat,139,14.5,41,18.5,Snack
+Barfi,393,4.3,18,14.4,Dessert
+Pongal,193,10.4,42,19.4,Breakfast
+Lemon Rice,212,3.4,11,10.7,Lunch
+Paneer Bhurji,134,2.9,11,15.0,Dinner
+Kachori,107,7.3,37,6.5,Snack
+Gulab Jamun,122,4.6,34,15.5,Dessert
+Misal Pav,108,10.8,18,6.0,Breakfast
+Sambar Rice,278,6.9,39,8.6,Lunch
+Butter Chicken,358,5.2,11,5.9,Dinner
+Kachori,233,7.0,38,8.0,Snack
+Rasgulla,318,6.9,36,5.5,Dessert
+Chilla,238,8.6,24,17.1,Breakfast
+Lemon Rice,107,13.2,34,11.3,Lunch
+Bhindi Masala,148,3.6,29,18.6,Dinner
+Pakora,362,12.5,12,14.0,Snack
+Kulfi,279,9.3,10,13.9,Dessert
+Upma,191,4.8,33,16.4,Breakfast
+Baingan Bharta,204,6.1,39,6.8,Lunch
+Mutton Curry,350,5.0,17,3.1,Dinner
+Masala Papad,152,8.6,25,12.5,Snack
+Jalebi,237,12.0,40,13.5,Dessert
+Chilla,362,12.0,42,1.4,Breakfast
+Lemon Rice,187,14.3,24,2.6,Lunch
+Paneer Bhurji,334,2.4,12,4.2,Dinner
+Momos,177,11.6,42,15.5,Snack
+Kheer,220,10.7,29,17.2,Dessert
+Pongal,291,9.7,38,13.9,Breakfast
+Baingan Bharta,166,6.8,49,14.0,Lunch
+Fish Curry,288,11.7,33,12.5,Dinner
+Masala Papad,148,5.8,41,5.4,Snack
+Barfi,155,6.1,16,6.6,Dessert
+Upma,193,9.5,50,3.6,Breakfast
+Sambar Rice,174,13.0,41,8.9,Lunch
+Paneer Bhurji,321,9.6,48,5.9,Dinner
+Kachori,124,6.6,16,19.2,Snack
+Peda,269,4.4,39,17.2,Dessert
+Medu Vada,226,6.4,48,17.7,Breakfast
+Baingan Bharta,149,12.6,15,13.1,Lunch
+Paneer Bhurji,129,2.9,45,15.4,Dinner
+Momos,397,14.5,28,3.2,Snack
+Ladoo,226,8.6,18,18.0,Dessert
+Medu Vada,250,12.0,25,10.9,Breakfast
+Chole,266,7.3,22,1.7,Lunch
+Butter Chicken,183,10.5,25,9.8,Dinner
+Chaat,313,10.6,27,12.2,Snack
+Peda,181,6.7,41,14.3,Dessert
+Vada Pav,300,14.1,21,10.3,Breakfast
+Lemon Rice,104,10.6,32,1.3,Lunch
+Dal Tadka,160,15.0,18,6.1,Dinner
+Masala Papad,126,9.4,21,5.9,Snack
+Barfi,290,4.3,22,19.9,Dessert
+Chilla,154,7.6,31,7.0,Breakfast
+Rajma,137,10.8,33,10.4,Lunch
+Bhindi Masala,114,11.8,37,1.9,Dinner
+Sev Puri,170,3.6,30,13.9,Snack
+Peda,286,14.8,12,8.0,Dessert
+Poha,214,5.5,39,19.4,Breakfast
+Dal Makhani,202,5.7,43,11.8,Lunch
+Butter Chicken,200,7.4,32,1.8,Dinner
+Sev Puri,141,13.5,45,11.6,Snack
+Peda,210,2.1,24,13.6,Dessert
+Poha,388,5.9,48,1.5,Breakfast
+Vegetable Biryani,187,9.7,45,14.2,Lunch
+Palak Paneer,307,5.2,47,3.1,Dinner
+Pakora,301,4.5,48,4.3,Snack
+Kheer,231,12.3,41,3.6,Dessert
+Vada Pav,332,2.4,13,3.0,Breakfast
+Sambar Rice,116,7.6,35,12.7,Lunch
+Palak Paneer,377,14.7,46,3.4,Dinner
+Momos,311,3.9,12,16.3,Snack
+Rasgulla,153,8.7,36,6.0,Dessert
+Upma,182,13.0,14,2.3,Breakfast
+Vegetable Biryani,266,10.1,37,11.8,Lunch
+Paneer Bhurji,290,13.1,47,3.0,Dinner
+Bhel Puri,126,4.8,41,4.5,Snack
+Kulfi,342,3.9,47,6.8,Dessert
+Upma,343,2.2,25,12.6,Breakfast
+Dal Makhani,165,5.9,27,5.1,Lunch
+Mutton Curry,311,7.2,17,3.5,Dinner
+Sev Puri,319,13.8,27,9.9,Snack
+Jalebi,177,7.5,17,13.6,Dessert
+Misal Pav,364,4.1,46,12.3,Breakfast
+Dal Makhani,380,9.8,28,13.6,Lunch
+Bhindi Masala,248,9.7,29,1.7,Dinner
+Masala Papad,349,9.8,42,9.0,Snack
+Rabri,187,7.7,36,7.5,Dessert
+Upma,347,2.9,35,8.8,Breakfast
+Sambar Rice,231,13.4,28,14.6,Lunch
+Paneer Bhurji,156,6.6,43,9.6,Dinner
+Pakora,382,5.5,24,5.8,Snack
+Peda,138,10.8,30,14.5,Dessert
+Chilla,233,3.6,20,5.5,Breakfast
+Sambar Rice,288,3.3,35,3.4,Lunch
+Paneer Bhurji,388,7.3,12,8.2,Dinner
+Masala Papad,114,13.6,31,12.1,Snack
+Kheer,335,2.1,29,15.2,Dessert
+Aloo Paratha,206,7.6,33,15.8,Breakfast
+Lemon Rice,368,3.0,10,11.8,Lunch
+Dal Tadka,395,2.9,14,10.4,Dinner
+Chaat,348,10.8,44,15.7,Snack
+Gulab Jamun,113,11.6,45,3.0,Dessert
+Medu Vada,340,11.5,36,12.6,Breakfast
+Sambar Rice,113,12.6,30,15.5,Lunch
+Paneer Bhurji,152,7.2,19,15.7,Dinner
+Chaat,235,4.4,30,9.4,Snack
+Gulab Jamun,160,10.6,49,4.6,Dessert
+Pongal,372,9.1,21,11.1,Breakfast
+Sambar Rice,182,13.4,28,12.6,Lunch
+Palak Paneer,105,13.5,46,1.1,Dinner
+Samosa,373,11.1,34,5.8,Snack
+Jalebi,227,5.8,44,8.3,Dessert
+Aloo Paratha,232,2.4,18,17.4,Breakfast
+Lemon Rice,346,5.7,24,14.4,Lunch
+Paneer Bhurji,223,5.7,37,8.3,Dinner
+Bhel Puri,328,4.6,46,10.9,Snack
+Kulfi,323,10.6,33,14.7,Dessert
+Dosa,185,5.3,23,4.4,Breakfast
+Dal Makhani,121,11.9,38,18.7,Lunch
+Bhindi Masala,396,12.3,10,9.6,Dinner
+Masala Papad,187,2.6,33,4.7,Snack
+Rabri,376,2.1,36,17.8,Dessert
+Misal Pav,105,12.0,27,3.2,Breakfast
+Lemon Rice,150,11.5,35,12.5,Lunch
+Fish Curry,158,9.6,24,1.9,Dinner
+Sev Puri,254,12.3,14,11.4,Snack
+Gulab Jamun,370,9.3,31,7.4,Dessert
+Upma,359,7.2,35,1.9,Breakfast
+Vegetable Biryani,208,13.3,50,15.0,Lunch
+Paneer Bhurji,161,2.9,19,5.6,Dinner
+Sev Puri,185,11.2,40,12.1,Snack
+Kulfi,334,14.8,29,14.6,Dessert
+Misal Pav,384,14.1,47,2.8,Breakfast
+Paneer Butter Masala,156,4.4,50,12.9,Lunch
+Dal Tadka,197,14.7,37,18.0,Dinner
+Pakora,337,13.4,16,1.9,Snack
+Gulab Jamun,225,7.6,36,3.2,Dessert
+Dosa,322,5.2,34,6.8,Breakfast
+Baingan Bharta,135,7.5,41,5.1,Lunch
+Mutton Curry,312,14.3,48,7.3,Dinner
+Kachori,152,10.7,36,9.0,Snack
+Kulfi,235,14.5,49,18.1,Dessert
+Vada Pav,318,10.1,15,10.1,Breakfast
+Chole,252,3.7,26,5.1,Lunch
+Fish Curry,323,11.8,48,18.0,Dinner
+Samosa,222,9.7,43,4.1,Snack
+Rabri,357,2.8,41,2.6,Dessert
+Chilla,352,15.0,47,9.3,Breakfast
+Rajma,306,3.7,39,19.8,Lunch
+Butter Chicken,205,4.0,12,13.8,Dinner
+Sev Puri,128,14.7,32,7.7,Snack
+Ladoo,271,3.6,14,3.8,Dessert
+Idli,292,6.3,23,18.5,Breakfast
+Dal Makhani,306,11.9,42,11.6,Lunch
+Jeera Rice,391,4.8,25,13.1,Dinner
+Momos,305,5.5,30,12.1,Snack
+Jalebi,356,14.2,23,14.1,Dessert
+Medu Vada,268,7.9,45,4.0,Breakfast
+Baingan Bharta,346,9.1,40,11.2,Lunch
+Dal Tadka,343,3.4,48,16.4,Dinner
+Samosa,199,9.5,45,19.2,Snack
+Ladoo,106,9.6,39,19.0,Dessert
+Pongal,207,6.5,39,7.2,Breakfast
+Sambar Rice,113,3.0,34,18.2,Lunch
+Fish Curry,354,3.8,20,9.6,Dinner
+Momos,260,2.5,21,15.0,Snack
+Rabri,281,2.3,26,10.7,Dessert
+Misal Pav,194,9.7,34,11.2,Breakfast
+Dal Makhani,141,6.7,45,16.9,Lunch
+Fish Curry,383,5.5,35,18.0,Dinner
+Pakora,200,10.8,30,8.4,Snack
+Kulfi,254,11.1,26,1.4,Dessert
+Dosa,195,8.5,20,6.8,Breakfast
+Paneer Butter Masala,246,6.3,26,5.4,Lunch
+Fish Curry,154,6.6,13,16.0,Dinner
+Kachori,102,4.3,50,11.5,Snack
+Rabri,261,13.1,26,19.8,Dessert
+Chilla,324,3.0,10,6.5,Breakfast
+Chole,283,11.3,25,3.0,Lunch
+Mutton Curry,399,10.8,50,3.7,Dinner
+Sev Puri,340,13.0,46,2.5,Snack
+Gulab Jamun,200,9.9,34,8.3,Dessert
+Vada Pav,390,9.5,11,16.9,Breakfast
+Dal Makhani,131,14.1,25,17.0,Lunch
+Bhindi Masala,338,6.0,28,16.3,Dinner
+Dhokla,253,13.8,24,19.0,Snack
+Kulfi,281,10.8,24,2.3,Dessert
+Dosa,379,7.2,11,14.7,Breakfast
+Rajma,130,10.5,21,4.9,Lunch
+Mutton Curry,210,13.8,34,19.6,Dinner
+Kachori,307,13.3,21,1.9,Snack
+Gulab Jamun,174,8.2,32,16.8,Dessert
+Vada Pav,104,11.3,37,18.2,Breakfast
+Chole,220,3.7,29,6.7,Lunch
+Jeera Rice,360,9.6,39,5.0,Dinner
+Masala Papad,114,12.0,41,3.4,Snack
+Barfi,385,5.4,13,6.2,Dessert
+Poha,294,8.4,35,7.4,Breakfast
+Paneer Butter Masala,324,4.8,48,11.4,Lunch
+Bhindi Masala,138,7.7,37,19.7,Dinner
+Masala Papad,264,6.1,46,10.8,Snack
+Gulab Jamun,296,4.3,40,9.5,Dessert
+Misal Pav,393,7.0,31,12.1,Breakfast
+Baingan Bharta,107,10.3,19,13.4,Lunch
+Bhindi Masala,273,9.8,46,6.2,Dinner
+Momos,302,6.2,23,11.4,Snack
+Kheer,139,4.1,15,4.9,Dessert
+Upma,372,8.8,26,14.8,Breakfast
+Rajma,380,10.9,33,18.1,Lunch
+Dal Tadka,120,8.8,11,4.1,Dinner
+Masala Papad,107,5.2,23,16.6,Snack
+Rabri,252,13.2,48,8.1,Dessert
+Aloo Paratha,234,2.9,34,3.7,Breakfast
+Lemon Rice,326,6.7,22,17.7,Lunch
+Paneer Bhurji,211,12.0,44,16.0,Dinner
+Momos,290,13.8,34,11.9,Snack
+Peda,352,4.5,40,6.7,Dessert
+Upma,178,8.5,34,18.5,Breakfast
+Sambar Rice,393,4.7,28,18.4,Lunch
+Fish Curry,337,4.0,48,4.9,Dinner
+Kachori,279,11.1,40,11.6,Snack
+Ladoo,241,7.1,12,1.9,Dessert
+Vada Pav,165,5.5,38,9.4,Breakfast
+Rajma,165,6.5,14,1.6,Lunch
+Bhindi Masala,264,12.2,39,17.2,Dinner
+Samosa,161,14.1,13,4.2,Snack
+Ladoo,395,5.2,30,7.1,Dessert
+Upma,280,5.2,31,1.3,Breakfast
+Dal Makhani,200,13.3,16,8.0,Lunch
+Dal Tadka,382,8.4,10,11.7,Dinner
+Sev Puri,170,2.4,25,7.9,Snack
+Rasgulla,219,3.9,44,12.2,Dessert
+Medu Vada,149,7.3,41,2.8,Breakfast
+Sambar Rice,382,3.6,17,18.0,Lunch
+Jeera Rice,188,6.7,50,17.5,Dinner
+Pakora,151,7.4,23,10.5,Snack
+Rabri,339,12.6,20,13.1,Dessert
+Vada Pav,393,5.8,19,15.5,Breakfast
+Sambar Rice,398,4.9,44,3.3,Lunch
+Butter Chicken,169,2.7,37,12.4,Dinner
+Momos,380,6.2,42,7.9,Snack
+Rabri,173,8.5,17,7.3,Dessert
+Pongal,229,7.1,10,9.9,Breakfast
+Dal Makhani,105,2.3,49,12.4,Lunch
+Mutton Curry,283,7.5,24,16.8,Dinner
+Momos,382,4.7,13,14.5,Snack
+Rabri,197,10.7,19,20.0,Dessert
+Vada Pav,246,5.9,32,3.8,Breakfast
+Vegetable Biryani,177,9.5,40,18.1,Lunch
+Jeera Rice,343,3.6,33,8.6,Dinner
+Samosa,162,6.0,37,6.8,Snack
+Kulfi,255,10.9,42,7.9,Dessert
+Upma,299,2.7,49,2.2,Breakfast
+Rajma,195,13.0,14,1.2,Lunch
+Bhindi Masala,396,8.4,48,3.0,Dinner
+Samosa,274,11.6,37,17.5,Snack
+Jalebi,312,4.0,13,2.6,Dessert
+Misal Pav,176,7.2,25,3.0,Breakfast
+Vegetable Biryani,331,8.7,46,1.3,Lunch
+Dal Tadka,372,3.2,44,3.4,Dinner
+Sev Puri,349,11.3,26,10.9,Snack
+Barfi,330,10.2,46,16.6,Dessert
+Pongal,134,13.2,17,11.6,Breakfast
+Paneer Butter Masala,374,9.2,35,19.2,Lunch
+Dal Tadka,164,11.4,36,6.5,Dinner
+Chaat,253,9.5,27,14.5,Snack
+Kheer,218,10.5,49,18.1,Dessert
+Pongal,102,6.7,48,10.3,Breakfast
+Paneer Butter Masala,394,13.3,12,16.8,Lunch
+Mutton Curry,284,5.5,27,17.6,Dinner
+Samosa,105,4.2,21,1.9,Snack
+Ladoo,333,2.0,36,10.5,Dessert
+Poha,163,7.2,37,16.8,Breakfast
+Rajma,311,7.3,10,11.6,Lunch
+Mutton Curry,368,13.4,35,8.2,Dinner
+Chaat,206,9.6,25,12.5,Snack
+Gulab Jamun,367,12.3,17,4.3,Dessert
+Idli,278,12.0,10,17.9,Breakfast
+Lemon Rice,206,8.2,45,13.2,Lunch
+Paneer Bhurji,224,8.4,26,4.2,Dinner
+Chaat,375,2.1,39,7.6,Snack
+Ladoo,359,14.6,28,9.2,Dessert
+Upma,350,10.2,12,15.9,Breakfast
+Sambar Rice,166,5.6,36,5.4,Lunch
+Fish Curry,337,11.8,12,10.3,Dinner
+Kachori,300,4.7,30,10.3,Snack
+Jalebi,265,13.1,26,10.8,Dessert
+Upma,252,4.6,22,15.7,Breakfast
+Rajma,149,5.8,15,11.7,Lunch
+Mutton Curry,299,14.4,19,16.7,Dinner
+Dhokla,215,8.5,44,18.4,Snack
+Rabri,279,14.3,27,1.0,Dessert
+Pongal,199,4.1,50,8.0,Breakfast
+Paneer Butter Masala,146,14.4,11,1.7,Lunch
+Fish Curry,333,6.4,31,4.6,Dinner
+Momos,246,9.2,49,2.9,Snack
+Jalebi,228,13.9,44,13.9,Dessert
+Pongal,327,8.5,48,3.6,Breakfast
+Vegetable Biryani,275,6.4,19,9.4,Lunch
+Butter Chicken,148,2.1,34,11.7,Dinner
+Bhel Puri,273,2.1,26,15.3,Snack
+Barfi,333,6.2,49,8.2,Dessert
+Dosa,307,11.3,10,8.8,Breakfast
+Dal Makhani,230,3.7,14,18.9,Lunch
+Dal Tadka,194,4.2,25,2.7,Dinner
+Momos,125,10.5,37,13.2,Snack
+Kulfi,372,6.1,25,12.7,Dessert
+Aloo Paratha,238,6.3,46,1.4,Breakfast
+Paneer Butter Masala,165,12.5,43,13.2,Lunch
+Fish Curry,332,4.0,37,2.8,Dinner
+Kachori,366,13.1,28,10.9,Snack
+Rabri,177,2.6,44,11.8,Dessert
+Misal Pav,230,6.8,10,6.3,Breakfast
+Sambar Rice,338,8.2,12,1.3,Lunch
+Paneer Bhurji,400,6.1,11,19.3,Dinner
+Kachori,291,3.7,12,3.4,Snack
+Jalebi,346,4.6,16,5.8,Dessert
+Vada Pav,288,4.5,28,15.4,Breakfast
+Lemon Rice,299,3.8,38,2.4,Lunch
+Jeera Rice,263,12.6,28,20.0,Dinner
+Kachori,298,2.7,37,14.2,Snack
+Kheer,345,5.7,48,4.7,Dessert
+Chilla,321,10.6,42,15.0,Breakfast
+Baingan Bharta,231,5.5,39,17.9,Lunch
+Butter Chicken,291,13.7,33,19.1,Dinner
+Samosa,287,3.4,38,2.1,Snack
+Kheer,294,13.9,25,2.0,Dessert
+Chilla,367,2.2,18,7.8,Breakfast
+Chole,322,14.0,23,5.2,Lunch
+Butter Chicken,388,10.4,49,12.6,Dinner
+Bhel Puri,326,6.1,16,13.6,Snack
+Jalebi,244,11.7,35,15.0,Dessert
+Aloo Paratha,121,6.4,13,10.3,Breakfast
+Lemon Rice,114,14.4,34,14.4,Lunch
+Paneer Bhurji,191,9.6,28,12.1,Dinner
+Sev Puri,231,7.3,32,19.1,Snack
+Kulfi,292,10.1,32,19.9,Dessert
+Poha,307,10.2,47,13.4,Breakfast
+Vegetable Biryani,290,11.6,40,13.4,Lunch
+Fish Curry,392,11.0,49,9.0,Dinner
+Masala Papad,130,7.1,30,13.4,Snack
+Kulfi,332,12.0,26,7.0,Dessert
+Aloo Paratha,398,8.4,27,9.0,Breakfast
+Chole,316,12.4,45,3.3,Lunch
+Dal Tadka,222,3.9,34,15.8,Dinner
+Pakora,381,7.1,40,15.9,Snack
+Gulab Jamun,140,11.3,49,12.9,Dessert
+Medu Vada,209,9.6,25,8.2,Breakfast
+Paneer Butter Masala,310,9.4,10,10.3,Lunch
+Butter Chicken,362,5.1,19,15.7,Dinner
+Kachori,223,5.4,10,18.2,Snack
+Ladoo,277,6.7,31,16.9,Dessert
+Idli,107,7.5,19,18.1,Breakfast
+Rajma,235,3.3,14,9.0,Lunch
+Jeera Rice,354,14.9,20,3.0,Dinner
+Masala Papad,388,12.8,36,16.2,Snack
+Jalebi,254,11.7,38,5.9,Dessert
+Pongal,109,13.3,48,7.3,Breakfast
+Chole,132,9.1,16,4.8,Lunch
+Bhindi Masala,326,6.6,46,14.9,Dinner
+Momos,349,3.4,45,19.9,Snack
+Peda,137,11.7,43,6.4,Dessert
+Poha,399,3.3,20,3.9,Breakfast
+Rajma,276,12.9,43,18.9,Lunch
+Mutton Curry,315,11.4,12,9.3,Dinner
+Momos,363,7.3,16,13.3,Snack
+Rabri,298,2.9,48,7.9,Dessert
+Misal Pav,165,8.2,17,6.1,Breakfast
+Sambar Rice,170,3.8,20,7.9,Lunch
+Dal Tadka,350,12.7,41,2.1,Dinner
+Samosa,294,5.1,36,18.4,Snack
+Rabri,283,9.9,48,4.7,Dessert
+Dosa,158,3.1,37,5.8,Breakfast
+Sambar Rice,311,2.1,29,18.4,Lunch
+Jeera Rice,174,8.8,15,16.8,Dinner
+Momos,361,7.8,12,15.6,Snack
+Gulab Jamun,120,10.7,47,1.7,Dessert
+Misal Pav,287,14.4,33,15.5,Breakfast
+Chole,110,14.5,19,18.4,Lunch
+Jeera Rice,116,6.0,50,5.2,Dinner
+Dhokla,394,9.9,39,16.1,Snack
+Peda,238,6.5,34,1.8,Dessert
+Idli,305,12.1,14,17.6,Breakfast
+Rajma,310,14.7,25,7.3,Lunch
+Butter Chicken,398,9.6,50,4.3,Dinner
+Masala Papad,115,9.3,29,12.7,Snack
+Jalebi,119,5.1,17,18.8,Dessert
+Aloo Paratha,379,12.7,31,3.8,Breakfast
+Chole,121,4.3,46,17.4,Lunch
+Bhindi Masala,350,4.5,37,14.2,Dinner
+Kachori,340,3.2,44,8.1,Snack
+Kheer,344,10.8,46,11.0,Dessert
+Aloo Paratha,391,14.5,41,17.5,Breakfast
+Paneer Butter Masala,384,6.8,30,7.2,Lunch
+Paneer Bhurji,220,12.7,16,3.1,Dinner
+Chaat,114,4.1,41,18.2,Snack
+Rabri,293,13.9,11,16.2,Dessert
+Poha,138,2.3,18,2.9,Breakfast
+Chole,171,12.5,29,7.3,Lunch
+Butter Chicken,258,7.2,41,5.6,Dinner
+Kachori,225,12.6,24,12.9,Snack
+Barfi,308,4.6,44,11.2,Dessert
+Aloo Paratha,235,2.7,30,14.5,Breakfast
+Lemon Rice,295,8.3,22,7.4,Lunch
+Dal Tadka,243,11.1,47,17.0,Dinner
+Masala Papad,115,9.8,49,17.3,Snack
+Kheer,304,9.7,41,14.7,Dessert
+Medu Vada,239,4.7,19,4.2,Breakfast
+Chole,176,11.8,35,10.4,Lunch
+Paneer Bhurji,188,7.8,24,4.2,Dinner
+Dhokla,166,4.5,11,5.5,Snack
+Gulab Jamun,306,13.8,24,15.0,Dessert
+Aloo Paratha,341,11.2,43,5.7,Breakfast
+Vegetable Biryani,340,4.5,44,19.6,Lunch
+Jeera Rice,246,4.8,25,7.4,Dinner
+Sev Puri,115,7.0,10,16.1,Snack
+Rasgulla,182,5.4,42,9.7,Dessert
+Medu Vada,277,6.6,21,18.3,Breakfast
+Sambar Rice,379,14.0,18,9.0,Lunch
+Bhindi Masala,346,5.9,12,11.9,Dinner
+Masala Papad,246,6.0,39,14.7,Snack
+Gulab Jamun,199,11.1,20,2.2,Dessert
+Idli,132,14.9,24,15.9,Breakfast
+Rajma,249,9.4,31,12.3,Lunch
+Mutton Curry,301,13.2,26,1.9,Dinner
+Dhokla,142,3.5,46,4.2,Snack
+Gulab Jamun,390,7.0,31,4.9,Dessert
+Idli,194,11.5,10,8.6,Breakfast
+Chole,216,6.9,12,16.6,Lunch
+Butter Chicken,181,11.3,44,8.2,Dinner
+Kachori,203,14.6,38,11.7,Snack
+Rabri,237,13.8,16,5.8,Dessert
+Dosa,188,9.7,11,4.6,Breakfast
+Baingan Bharta,321,9.4,22,17.9,Lunch
+Dal Tadka,344,14.7,27,15.9,Dinner
+Samosa,149,9.5,46,7.0,Snack
+Peda,272,4.5,11,1.1,Dessert
+Upma,115,6.7,10,5.2,Breakfast
+Baingan Bharta,223,5.0,15,15.0,Lunch
+Bhindi Masala,262,12.6,18,6.2,Dinner
+Kachori,309,13.0,10,10.2,Snack
+Kheer,276,10.4,36,9.5,Dessert
+Vada Pav,211,10.8,21,12.1,Breakfast
+Rajma,101,8.5,36,8.3,Lunch
+Palak Paneer,205,7.1,42,8.3,Dinner
+Masala Papad,139,10.7,34,10.6,Snack
+Kheer,202,9.7,48,19.0,Dessert
+Misal Pav,325,9.3,42,7.2,Breakfast
+Vegetable Biryani,190,2.1,36,14.6,Lunch
+Butter Chicken,224,2.7,35,13.5,Dinner
+Masala Papad,244,13.8,38,17.0,Snack
+Barfi,216,9.7,18,3.9,Dessert
+Vada Pav,284,7.3,12,9.4,Breakfast
+Paneer Butter Masala,124,7.5,46,8.2,Lunch
+Butter Chicken,354,11.7,33,14.3,Dinner
+Bhel Puri,149,14.5,49,19.6,Snack
+Rabri,148,8.9,34,19.0,Dessert
+Idli,137,10.1,39,13.0,Breakfast
+Sambar Rice,300,10.5,50,6.4,Lunch
+Fish Curry,383,4.8,34,3.2,Dinner
+Pakora,284,4.6,45,16.9,Snack
+Barfi,387,10.9,13,14.7,Dessert
+Upma,293,4.9,17,4.1,Breakfast
+Dal Makhani,383,2.4,23,10.1,Lunch
+Bhindi Masala,221,14.1,27,18.9,Dinner
+Dhokla,244,9.9,18,16.7,Snack
+Jalebi,176,10.1,13,9.0,Dessert
+Poha,263,2.6,37,8.6,Breakfast
+Vegetable Biryani,246,11.5,19,10.8,Lunch
+Palak Paneer,245,5.4,43,4.9,Dinner
+Sev Puri,338,7.3,25,6.4,Snack
+Gulab Jamun,142,6.2,20,12.3,Dessert
+Misal Pav,223,13.3,34,6.4,Breakfast
+Vegetable Biryani,198,10.9,49,13.5,Lunch
+Butter Chicken,257,3.1,46,17.9,Dinner
+Kachori,206,12.2,47,16.5,Snack
+Kheer,124,3.3,44,18.9,Dessert
+Dosa,134,6.3,10,17.2,Breakfast
+Dal Makhani,293,6.7,10,2.4,Lunch
+Butter Chicken,134,11.7,49,18.3,Dinner
+Masala Papad,351,5.0,50,7.7,Snack
+Kulfi,234,2.7,12,16.8,Dessert
+Upma,170,7.9,36,11.7,Breakfast
+Dal Makhani,271,3.1,16,7.8,Lunch
+Mutton Curry,160,4.9,17,10.7,Dinner
+Bhel Puri,123,4.9,23,19.0,Snack
+Peda,392,7.9,47,10.6,Dessert
+Upma,106,5.2,17,7.4,Breakfast
+Rajma,275,5.6,10,10.0,Lunch
+Palak Paneer,154,8.1,14,11.7,Dinner
+Pakora,322,12.3,28,17.7,Snack
+Barfi,142,11.4,28,17.1,Dessert
+Vada Pav,217,5.7,18,9.1,Breakfast
+Baingan Bharta,241,10.9,29,10.1,Lunch
+Fish Curry,100,3.3,31,1.1,Dinner
+Dhokla,371,11.0,34,15.0,Snack
+Barfi,396,9.2,30,7.6,Dessert
+Pongal,389,14.6,48,9.7,Breakfast
+Sambar Rice,156,2.7,20,10.7,Lunch
+Bhindi Masala,250,9.0,40,16.5,Dinner
+Masala Papad,327,13.7,20,3.0,Snack
+Kulfi,211,10.5,30,14.2,Dessert
+Upma,284,11.5,38,1.9,Breakfast
+Baingan Bharta,120,2.9,33,7.2,Lunch
+Fish Curry,357,5.7,34,14.1,Dinner
+Chaat,223,14.5,24,3.1,Snack
+Kulfi,301,14.9,36,2.1,Dessert
+Dosa,225,8.1,21,16.1,Breakfast
+Sambar Rice,151,2.4,26,19.8,Lunch
+Dal Tadka,234,7.5,41,10.1,Dinner
+Dhokla,152,12.6,41,16.7,Snack
+Ladoo,227,3.3,16,5.7,Dessert
+Dosa,248,14.7,31,15.3,Breakfast
+Rajma,169,6.4,37,15.5,Lunch
+Jeera Rice,330,14.8,15,19.6,Dinner
+Sev Puri,193,3.8,22,2.2,Snack
+Jalebi,306,6.6,24,9.9,Dessert
+Medu Vada,242,9.3,16,10.7,Breakfast
+Sambar Rice,298,14.6,49,16.5,Lunch
+Fish Curry,156,10.6,23,8.7,Dinner
+Chaat,386,10.9,50,5.1,Snack
+Barfi,241,8.9,45,18.5,Dessert
+Upma,179,3.0,10,6.2,Breakfast
+Sambar Rice,108,10.6,15,10.5,Lunch
+Paneer Bhurji,284,14.7,22,16.6,Dinner
+Chaat,297,12.4,21,15.9,Snack
+Rabri,130,2.3,12,16.9,Dessert
+Medu Vada,226,14.7,22,2.6,Breakfast
+Paneer Butter Masala,205,8.2,49,2.3,Lunch
+Bhindi Masala,181,14.9,24,19.1,Dinner
+Samosa,224,5.3,34,6.5,Snack
+Kulfi,167,3.4,11,7.1,Dessert
+Pongal,163,10.8,23,6.1,Breakfast
+Baingan Bharta,110,2.2,14,18.6,Lunch
+Jeera Rice,346,13.7,34,17.1,Dinner
+Kachori,132,6.3,45,15.4,Snack
+Barfi,144,9.2,40,7.0,Dessert
+Chilla,342,5.5,10,6.9,Breakfast
+Baingan Bharta,271,9.0,11,1.4,Lunch
+Fish Curry,107,4.1,49,3.7,Dinner
+Bhel Puri,283,2.5,40,10.2,Snack
+Kheer,117,10.5,32,4.1,Dessert
+Medu Vada,214,14.1,46,5.9,Breakfast
+Rajma,384,6.4,27,15.3,Lunch
+Butter Chicken,385,13.4,22,3.3,Dinner
+Dhokla,298,10.9,30,8.5,Snack
+Peda,178,8.1,24,4.3,Dessert
+Upma,270,11.1,25,2.8,Breakfast
+Paneer Butter Masala,354,3.2,28,10.2,Lunch
+Palak Paneer,355,13.0,13,4.2,Dinner
+Samosa,269,8.3,26,16.1,Snack
+Kulfi,258,8.9,49,9.6,Dessert
+Aloo Paratha,260,6.4,21,15.2,Breakfast
+Baingan Bharta,378,7.9,45,13.6,Lunch
+Mutton Curry,180,4.6,17,4.6,Dinner
+Dhokla,149,13.4,18,4.3,Snack
+Rabri,364,5.2,27,10.6,Dessert
+Chilla,390,13.3,46,1.5,Breakfast
+Rajma,291,13.7,22,10.8,Lunch
+Butter Chicken,219,12.8,23,12.5,Dinner
+Samosa,204,9.4,20,15.1,Snack
+Peda,297,4.9,41,6.4,Dessert
+Idli,108,14.0,49,3.9,Breakfast
+Vegetable Biryani,241,6.2,50,3.7,Lunch
+Fish Curry,344,10.4,12,14.9,Dinner
+Pakora,288,7.1,31,8.7,Snack
+Peda,269,11.0,13,3.6,Dessert
+Chilla,308,7.6,15,5.4,Breakfast
+Rajma,208,13.0,12,12.3,Lunch
+Fish Curry,390,10.5,50,1.3,Dinner
+Samosa,198,3.4,40,1.6,Snack
+Barfi,339,11.4,18,15.5,Dessert
+Aloo Paratha,231,10.9,41,9.4,Breakfast
+Sambar Rice,399,4.0,16,9.3,Lunch
+Fish Curry,193,11.7,31,16.6,Dinner
+Dhokla,164,6.8,46,19.9,Snack
+Gulab Jamun,275,6.6,11,8.3,Dessert
+Idli,288,4.9,21,4.9,Breakfast
+Rajma,266,4.3,45,8.0,Lunch
+Jeera Rice,384,11.6,36,7.6,Dinner
+Bhel Puri,109,14.4,21,9.2,Snack
+Rasgulla,201,6.4,28,8.4,Dessert
+Poha,247,13.9,29,9.2,Breakfast
+Paneer Butter Masala,330,8.8,38,15.7,Lunch
+Paneer Bhurji,292,11.0,30,6.9,Dinner
+Pakora,325,5.2,11,11.6,Snack
+Gulab Jamun,164,12.2,50,10.1,Dessert
+Vada Pav,189,3.9,29,16.8,Breakfast
+Chole,310,10.7,18,14.7,Lunch
+Bhindi Masala,177,3.1,27,17.1,Dinner
+Sev Puri,230,8.9,46,13.4,Snack
+Kulfi,157,14.5,49,8.5,Dessert
+Aloo Paratha,120,7.9,40,9.6,Breakfast
+Sambar Rice,111,10.7,21,16.5,Lunch
+Paneer Bhurji,289,14.7,34,8.6,Dinner
+Sev Puri,224,3.2,10,4.1,Snack
+Rasgulla,306,2.1,42,10.9,Dessert
+Poha,129,14.4,38,15.8,Breakfast
+Lemon Rice,190,13.3,35,3.5,Lunch
+Jeera Rice,367,8.0,32,16.3,Dinner
+Masala Papad,320,7.0,41,14.7,Snack
+Barfi,377,3.2,41,9.3,Dessert
+Poha,395,2.0,13,11.8,Breakfast
+Dal Makhani,351,8.9,17,15.1,Lunch
+Fish Curry,328,3.1,30,9.1,Dinner
+Masala Papad,287,5.1,25,9.4,Snack
+Barfi,247,2.3,41,15.6,Dessert
+Idli,251,10.6,22,15.6,Breakfast
+Vegetable Biryani,381,8.9,34,16.5,Lunch
+Dal Tadka,292,9.3,24,7.2,Dinner
+Bhel Puri,203,11.3,28,1.7,Snack
+Kheer,142,11.3,44,6.6,Dessert
+Misal Pav,235,13.6,34,16.7,Breakfast
+Lemon Rice,233,11.0,18,13.5,Lunch
+Palak Paneer,380,12.9,42,12.6,Dinner
+Masala Papad,125,2.6,44,12.1,Snack
+Rabri,299,11.6,23,1.4,Dessert
+Medu Vada,198,5.2,11,10.6,Breakfast
+Lemon Rice,252,6.6,44,15.4,Lunch
+Jeera Rice,311,10.6,20,5.3,Dinner
+Momos,284,10.7,13,12.0,Snack
+Ladoo,357,8.0,37,19.6,Dessert
+Idli,138,14.0,45,19.9,Breakfast
+Baingan Bharta,361,10.4,28,18.4,Lunch
+Palak Paneer,158,13.2,31,11.1,Dinner
+Masala Papad,251,7.5,12,4.1,Snack
+Gulab Jamun,270,13.4,44,16.5,Dessert
+Dosa,356,2.9,34,5.4,Breakfast
+Dal Makhani,270,5.7,34,15.2,Lunch
+Fish Curry,384,9.7,16,12.5,Dinner
+Momos,307,6.2,16,11.2,Snack
+Kheer,165,12.3,12,5.1,Dessert
+Aloo Paratha,103,9.1,26,1.4,Breakfast
+Sambar Rice,202,6.6,12,8.7,Lunch
+Paneer Bhurji,369,10.7,18,1.7,Dinner
+Bhel Puri,379,4.2,10,15.5,Snack
+Gulab Jamun,109,4.5,24,16.3,Dessert
+Aloo Paratha,376,5.2,20,3.1,Breakfast
+Vegetable Biryani,154,9.8,40,4.4,Lunch
+Mutton Curry,298,3.9,32,7.0,Dinner
+Sev Puri,274,8.4,42,3.1,Snack
+Kheer,250,2.4,28,7.8,Dessert
+Aloo Paratha,310,10.8,26,11.2,Breakfast
+Chole,156,4.2,35,4.5,Lunch
+Bhindi Masala,240,10.1,37,7.3,Dinner
+Masala Papad,130,3.2,46,11.5,Snack
+Jalebi,178,6.6,29,16.8,Dessert
+Medu Vada,190,8.9,16,12.3,Breakfast
+Vegetable Biryani,161,6.1,13,13.2,Lunch
+Bhindi Masala,131,12.5,48,5.4,Dinner
+Samosa,228,5.5,18,3.2,Snack
+Rasgulla,300,5.9,50,13.3,Dessert
+Aloo Paratha,130,13.4,31,2.2,Breakfast
+Paneer Butter Masala,234,2.9,21,6.5,Lunch
+Palak Paneer,325,2.0,22,11.9,Dinner
+Chaat,369,13.1,44,14.2,Snack
+Gulab Jamun,228,2.3,36,1.2,Dessert
+Chilla,366,5.5,47,14.5,Breakfast
+Rajma,216,3.6,11,1.1,Lunch
+Butter Chicken,181,3.4,27,13.4,Dinner
+Momos,290,2.8,24,5.4,Snack
+Jalebi,356,7.6,46,17.1,Dessert
+Medu Vada,161,14.7,47,15.1,Breakfast
+Sambar Rice,305,12.1,32,13.6,Lunch
+Dal Tadka,146,4.5,49,7.6,Dinner
+Chaat,267,4.1,27,1.6,Snack
+Rasgulla,141,7.6,32,19.3,Dessert
+Medu Vada,358,14.6,22,6.0,Breakfast
+Lemon Rice,379,2.7,47,6.2,Lunch
+Dal Tadka,349,6.2,33,3.3,Dinner
+Pakora,224,13.5,25,4.3,Snack
+Jalebi,133,4.0,15,4.1,Dessert
+Upma,149,9.4,40,16.8,Breakfast
+Chole,279,12.3,16,17.0,Lunch
+Fish Curry,341,5.1,24,3.9,Dinner
+Dhokla,207,5.3,30,1.7,Snack
+Peda,278,13.9,32,12.4,Dessert
+Idli,242,14.1,47,2.0,Breakfast
+Chole,175,10.6,10,10.4,Lunch
+Bhindi Masala,159,9.8,20,12.9,Dinner
+Kachori,139,10.1,27,19.3,Snack
+Rabri,164,14.3,36,1.6,Dessert
+Misal Pav,148,7.0,38,2.4,Breakfast
+Paneer Butter Masala,272,6.2,47,14.7,Lunch
+Jeera Rice,280,12.7,30,4.7,Dinner
+Sev Puri,354,2.8,40,10.4,Snack
+Rasgulla,290,10.1,16,10.5,Dessert
+Dosa,392,3.2,48,8.3,Breakfast
+Lemon Rice,114,10.1,17,7.9,Lunch
+Jeera Rice,130,9.7,48,16.0,Dinner
+Momos,118,9.0,38,12.4,Snack
+Kheer,293,7.3,26,9.8,Dessert
+Vada Pav,254,5.0,36,6.3,Breakfast
+Lemon Rice,309,11.0,43,5.4,Lunch
+Butter Chicken,145,12.3,50,9.5,Dinner
+Momos,382,13.9,12,6.4,Snack
+Kheer,147,6.2,43,18.2,Dessert
+Vada Pav,304,3.0,34,7.3,Breakfast
+Dal Makhani,371,2.8,30,4.1,Lunch
+Paneer Bhurji,250,3.0,21,6.6,Dinner
+Samosa,297,9.6,50,19.4,Snack
+Kulfi,187,13.4,22,6.1,Dessert
+Idli,377,5.2,23,9.4,Breakfast
+Dal Makhani,129,10.9,42,8.3,Lunch
+Palak Paneer,138,14.9,17,17.1,Dinner
+Chaat,226,10.6,16,11.6,Snack
+Jalebi,385,2.0,48,8.6,Dessert
+Vada Pav,116,4.5,47,16.1,Breakfast
+Paneer Butter Masala,174,13.9,19,17.5,Lunch
+Bhindi Masala,347,4.4,14,3.7,Dinner
+Kachori,126,12.4,24,17.2,Snack
+Peda,373,5.5,24,14.3,Dessert
+Upma,309,2.7,12,9.9,Breakfast
+Sambar Rice,354,4.3,37,4.1,Lunch
+Bhindi Masala,333,5.0,40,14.6,Dinner
+Dhokla,151,11.8,11,17.6,Snack
+Barfi,296,6.6,20,4.5,Dessert
+Aloo Paratha,276,8.1,40,1.4,Breakfast
+Vegetable Biryani,259,11.9,10,19.9,Lunch
+Butter Chicken,128,13.5,17,6.1,Dinner
+Pakora,288,8.7,23,14.0,Snack
+Gulab Jamun,123,5.1,15,8.7,Dessert
+Medu Vada,308,6.3,21,1.4,Breakfast
+Dal Makhani,250,2.2,35,2.4,Lunch
+Dal Tadka,388,14.4,45,19.5,Dinner
+Chaat,293,10.9,27,7.5,Snack
+Jalebi,328,5.2,30,16.0,Dessert
+Chilla,369,10.4,50,12.2,Breakfast
+Paneer Butter Masala,218,6.8,26,17.7,Lunch
+Mutton Curry,145,12.1,48,3.1,Dinner
+Chaat,360,7.8,40,2.4,Snack
+Kulfi,252,10.2,32,6.3,Dessert
+Upma,289,3.7,49,15.4,Breakfast
+Sambar Rice,353,4.6,24,1.4,Lunch
+Paneer Bhurji,374,2.3,36,5.5,Dinner
+Bhel Puri,289,2.7,19,2.7,Snack
+Barfi,208,14.5,17,10.6,Dessert
+Medu Vada,335,4.7,45,10.6,Breakfast
+Paneer Butter Masala,342,12.9,35,7.1,Lunch
+Paneer Bhurji,223,13.5,40,2.8,Dinner
+Pakora,226,3.1,11,1.0,Snack
+Ladoo,175,12.6,42,7.9,Dessert
+Chilla,111,11.9,45,17.9,Breakfast
+Sambar Rice,339,2.8,46,3.9,Lunch
+Fish Curry,334,11.8,43,12.7,Dinner
+Sev Puri,300,4.2,45,7.5,Snack
+Rabri,372,11.2,39,17.7,Dessert
+Dosa,170,2.7,15,15.2,Breakfast
+Sambar Rice,385,9.3,43,14.6,Lunch
+Butter Chicken,222,8.8,37,12.3,Dinner
+Chaat,346,6.5,13,10.2,Snack
+Kheer,275,11.8,15,4.6,Dessert
+Vada Pav,130,3.7,29,12.8,Breakfast
+Vegetable Biryani,127,5.7,45,7.0,Lunch
+Butter Chicken,386,2.1,38,2.2,Dinner
+Chaat,359,6.1,17,2.2,Snack
+Ladoo,319,10.1,14,11.7,Dessert
+Chilla,366,5.4,41,19.1,Breakfast
+Rajma,215,5.6,14,8.0,Lunch
+Bhindi Masala,208,3.9,11,7.9,Dinner
+Dhokla,400,6.2,10,2.6,Snack
+Rasgulla,174,5.2,32,3.7,Dessert
+Misal Pav,314,10.4,25,10.0,Breakfast
+Sambar Rice,293,14.1,41,4.0,Lunch
+Palak Paneer,290,6.8,32,4.3,Dinner
+Sev Puri,299,10.9,42,10.5,Snack
+Gulab Jamun,193,3.7,15,2.5,Dessert
+Vada Pav,212,8.8,11,16.9,Breakfast
+Lemon Rice,109,6.2,17,5.1,Lunch
+Paneer Bhurji,166,9.3,32,7.5,Dinner
+Bhel Puri,202,7.4,31,14.6,Snack
+Peda,203,4.9,25,5.3,Dessert
+Medu Vada,347,13.5,28,6.9,Breakfast
+Lemon Rice,302,7.1,14,16.8,Lunch
+Bhindi Masala,365,2.6,18,3.7,Dinner
+Bhel Puri,131,14.5,37,1.1,Snack
+Kheer,319,11.7,38,3.0,Dessert
+Misal Pav,295,2.8,20,17.9,Breakfast
+Vegetable Biryani,162,12.2,12,14.6,Lunch
+Paneer Bhurji,111,6.6,26,18.0,Dinner
+Chaat,377,6.2,29,13.6,Snack
+Kulfi,342,12.4,21,9.2,Dessert
+Vada Pav,112,2.7,22,11.8,Breakfast
+Baingan Bharta,172,2.7,10,16.5,Lunch
+Jeera Rice,221,10.3,22,19.6,Dinner
+Masala Papad,204,9.9,37,10.8,Snack
+Peda,208,9.4,14,10.3,Dessert
+Idli,248,13.3,38,7.1,Breakfast
+Sambar Rice,106,10.4,32,10.4,Lunch
+Bhindi Masala,114,4.5,48,2.7,Dinner
+Kachori,280,5.4,22,16.7,Snack
+Rabri,103,11.1,13,13.3,Dessert
+Aloo Paratha,248,2.6,33,7.9,Breakfast
+Lemon Rice,153,9.7,11,17.4,Lunch
+Paneer Bhurji,197,13.2,30,18.3,Dinner
+Samosa,270,5.6,49,4.8,Snack
+Kheer,215,9.8,49,18.5,Dessert
+Medu Vada,393,7.5,33,3.7,Breakfast
+Sambar Rice,226,11.5,35,15.0,Lunch
+Mutton Curry,282,12.8,26,4.3,Dinner
+Masala Papad,287,14.4,13,10.0,Snack
+Jalebi,145,12.8,31,7.2,Dessert
+Vada Pav,117,4.2,37,16.5,Breakfast
+Paneer Butter Masala,146,3.3,47,8.6,Lunch
+Mutton Curry,256,5.0,39,16.0,Dinner
+Samosa,117,3.2,24,6.0,Snack
+Barfi,222,14.3,27,18.2,Dessert
+Misal Pav,205,10.5,18,17.1,Breakfast
+Rajma,232,13.0,20,15.9,Lunch
+Mutton Curry,389,8.3,33,5.8,Dinner
+Dhokla,213,14.1,13,16.0,Snack
+Rasgulla,242,4.2,47,3.0,Dessert
+Pongal,173,6.0,17,3.0,Breakfast
+Lemon Rice,304,7.2,20,10.1,Lunch
+Paneer Bhurji,173,9.3,46,16.8,Dinner
+Pakora,186,4.4,27,9.5,Snack
+Barfi,213,14.6,48,1.2,Dessert
+Misal Pav,138,14.7,33,13.9,Breakfast
+Paneer Butter Masala,150,4.9,15,17.7,Lunch
+Paneer Bhurji,245,7.8,23,16.5,Dinner
+Sev Puri,198,8.6,20,7.0,Snack
+Ladoo,194,10.6,15,5.2,Dessert
+Misal Pav,286,3.9,30,15.6,Breakfast
+Dal Makhani,112,5.8,16,11.7,Lunch
+Mutton Curry,224,13.6,49,11.0,Dinner
+Chaat,368,10.0,48,17.8,Snack
+Gulab Jamun,207,4.6,43,7.7,Dessert
+Vada Pav,321,5.7,40,5.5,Breakfast
+Baingan Bharta,225,14.8,42,2.3,Lunch
+Fish Curry,248,2.7,26,2.5,Dinner
+Samosa,231,3.7,16,8.0,Snack
+Peda,233,5.5,39,11.8,Dessert
+Misal Pav,298,13.7,47,1.0,Breakfast
+Sambar Rice,211,12.5,39,4.5,Lunch
+Paneer Bhurji,298,2.2,41,9.4,Dinner
+Bhel Puri,122,11.3,15,16.4,Snack
+Jalebi,147,4.1,15,18.3,Dessert
+Pongal,301,7.3,14,4.1,Breakfast
+Lemon Rice,342,5.1,39,10.8,Lunch
+Palak Paneer,377,5.5,45,16.6,Dinner
+Dhokla,250,4.1,41,2.0,Snack
+Rasgulla,398,6.5,35,12.2,Dessert
+Idli,122,9.3,30,12.9,Breakfast
+Baingan Bharta,121,6.8,16,2.2,Lunch
+Jeera Rice,129,8.0,12,1.2,Dinner
+Kachori,357,8.3,34,4.5,Snack
+Kulfi,338,5.9,15,19.0,Dessert
+Vada Pav,262,5.7,25,13.0,Breakfast
+Baingan Bharta,104,3.4,22,17.0,Lunch
+Fish Curry,376,7.5,44,16.9,Dinner
+Sev Puri,223,12.8,21,11.8,Snack
+Rabri,112,8.7,33,13.0,Dessert
+Aloo Paratha,138,11.5,16,18.5,Breakfast
+Vegetable Biryani,172,13.1,13,18.7,Lunch
+Butter Chicken,154,12.9,12,2.5,Dinner
+Bhel Puri,113,9.2,26,1.7,Snack
+Rabri,346,4.5,37,6.3,Dessert
+Dosa,347,8.8,40,1.9,Breakfast
+Paneer Butter Masala,254,10.8,29,11.7,Lunch
+Bhindi Masala,117,12.9,10,12.1,Dinner
+Bhel Puri,194,3.7,21,6.3,Snack
+Kulfi,112,9.3,14,19.2,Dessert
+Medu Vada,232,5.8,24,9.5,Breakfast
+Rajma,126,6.5,34,4.9,Lunch
+Fish Curry,261,8.0,17,11.7,Dinner
+Samosa,302,4.5,28,14.4,Snack
+Kheer,185,14.0,36,9.4,Dessert
+Aloo Paratha,162,10.7,12,19.6,Breakfast
+Baingan Bharta,267,10.9,15,17.9,Lunch
+Dal Tadka,131,2.7,47,18.3,Dinner
+Pakora,339,4.2,14,5.2,Snack
+Ladoo,229,2.5,30,8.7,Dessert
+Pongal,117,13.1,31,8.6,Breakfast
+Chole,123,13.1,49,5.3,Lunch
+Mutton Curry,332,6.3,35,5.4,Dinner
+Samosa,184,13.5,35,15.2,Snack
+Rasgulla,109,10.8,12,6.7,Dessert
+Poha,205,3.7,38,14.3,Breakfast
+Baingan Bharta,170,5.0,24,19.4,Lunch
+Bhindi Masala,233,8.9,18,11.9,Dinner
+Samosa,387,14.2,10,16.6,Snack
+Kulfi,253,4.6,30,3.8,Dessert
+Aloo Paratha,387,10.4,47,17.2,Breakfast
+Paneer Butter Masala,330,13.1,48,10.6,Lunch
+Fish Curry,330,12.0,34,19.3,Dinner
+Momos,151,8.6,33,14.3,Snack
+Gulab Jamun,195,8.4,39,7.8,Dessert
+Upma,246,11.3,39,8.6,Breakfast
+Sambar Rice,380,8.1,42,18.0,Lunch
+Fish Curry,306,5.2,14,11.5,Dinner
+Masala Papad,301,5.9,13,16.9,Snack
+Rabri,350,11.3,28,3.7,Dessert
+Aloo Paratha,102,9.8,29,11.1,Breakfast
+Paneer Butter Masala,218,10.1,16,14.2,Lunch
+Fish Curry,355,12.1,48,11.6,Dinner
+Momos,357,11.0,33,14.6,Snack
+Rabri,213,10.8,26,4.8,Dessert
+Aloo Paratha,264,3.2,35,5.3,Breakfast
+Rajma,348,3.3,30,3.8,Lunch
+Jeera Rice,305,4.3,19,11.9,Dinner
+Samosa,329,12.6,36,20.0,Snack
+Ladoo,389,12.5,16,8.6,Dessert
+Medu Vada,232,5.1,45,16.3,Breakfast
+Dal Makhani,122,8.5,16,19.9,Lunch
+Fish Curry,158,11.7,39,6.0,Dinner
+Momos,370,3.1,22,2.4,Snack
+Kulfi,189,13.7,21,2.5,Dessert
+Dosa,100,7.1,21,17.7,Breakfast
+Sambar Rice,238,5.9,44,16.4,Lunch
+Jeera Rice,168,15.0,21,2.0,Dinner
+Kachori,165,6.6,48,7.8,Snack
+Barfi,199,3.1,44,7.3,Dessert
+Upma,316,3.6,20,17.0,Breakfast
+Dal Makhani,326,14.8,47,2.6,Lunch
+Fish Curry,121,10.9,49,13.9,Dinner
+Dhokla,313,11.5,16,14.0,Snack
+Jalebi,173,3.3,21,4.8,Dessert
+Pongal,129,6.1,41,10.5,Breakfast
+Paneer Butter Masala,266,10.0,33,12.9,Lunch
+Jeera Rice,271,3.1,16,19.0,Dinner
+Momos,386,5.5,47,10.6,Snack
+Gulab Jamun,139,10.6,45,18.8,Dessert
+Poha,143,11.9,33,5.3,Breakfast
+Vegetable Biryani,113,11.4,48,8.9,Lunch
+Paneer Bhurji,153,14.9,32,5.1,Dinner
+Bhel Puri,158,12.7,46,18.4,Snack
+Peda,129,11.2,17,12.5,Dessert
+Misal Pav,319,4.0,27,13.5,Breakfast
+Lemon Rice,101,11.1,42,14.0,Lunch
+Jeera Rice,237,10.7,43,8.5,Dinner
+Momos,158,10.5,13,12.3,Snack
+Rasgulla,363,7.1,14,5.2,Dessert
+Aloo Paratha,393,12.8,18,1.0,Breakfast
+Vegetable Biryani,196,12.0,43,16.6,Lunch
+Dal Tadka,100,12.7,48,6.9,Dinner
+Bhel Puri,226,7.9,14,7.8,Snack
+Kheer,189,12.6,13,12.2,Dessert
+Idli,162,6.5,41,10.4,Breakfast
+Vegetable Biryani,325,4.4,11,9.5,Lunch
+Dal Tadka,119,5.7,20,2.6,Dinner
+Kachori,265,13.4,15,1.4,Snack
+Barfi,316,6.0,47,5.4,Dessert
+Dosa,218,14.8,33,6.5,Breakfast
+Rajma,295,12.4,29,16.7,Lunch
+Jeera Rice,172,4.4,45,13.4,Dinner
+Dhokla,323,6.3,23,10.2,Snack
+Jalebi,105,13.1,29,9.3,Dessert
+Medu Vada,210,8.2,11,17.4,Breakfast
+Baingan Bharta,283,8.4,15,7.3,Lunch
+Fish Curry,138,6.2,40,17.3,Dinner
+Pakora,209,7.5,13,8.3,Snack
+Gulab Jamun,113,6.3,44,16.0,Dessert
+Misal Pav,390,13.3,26,11.0,Breakfast
+Vegetable Biryani,348,6.7,16,7.9,Lunch
+Fish Curry,281,13.8,15,19.5,Dinner
+Sev Puri,103,11.9,12,18.5,Snack
+Kulfi,213,2.7,14,17.3,Dessert
+Misal Pav,396,9.6,27,14.9,Breakfast
+Rajma,200,2.3,15,15.5,Lunch
+Bhindi Masala,130,2.9,36,13.5,Dinner
+Momos,115,7.1,12,7.1,Snack
+Kheer,349,11.8,32,1.7,Dessert
+Upma,248,3.8,19,13.3,Breakfast
+Rajma,171,5.5,13,14.6,Lunch
+Bhindi Masala,233,2.7,50,3.0,Dinner
+Kachori,258,7.3,12,19.7,Snack
+Jalebi,122,5.5,21,11.1,Dessert
+Chilla,363,5.5,28,2.7,Breakfast
+Dal Makhani,100,10.2,24,18.4,Lunch
+Palak Paneer,240,9.4,24,16.5,Dinner
+Bhel Puri,283,9.6,47,13.8,Snack
+Jalebi,180,7.4,38,19.0,Dessert
+Aloo Paratha,253,15.0,12,10.3,Breakfast
+Sambar Rice,173,8.1,18,5.3,Lunch
+Palak Paneer,252,6.9,12,20.0,Dinner
+Samosa,226,11.5,36,10.0,Snack
+Gulab Jamun,230,3.4,20,15.3,Dessert
+Chilla,181,11.2,13,4.2,Breakfast
+Baingan Bharta,151,10.6,13,8.3,Lunch
+Butter Chicken,263,2.3,21,6.9,Dinner
+Pakora,319,8.9,44,6.4,Snack
+Gulab Jamun,392,11.1,11,1.1,Dessert
+Medu Vada,294,2.6,25,1.4,Breakfast
+Vegetable Biryani,194,7.5,18,9.6,Lunch
+Palak Paneer,235,4.6,22,14.3,Dinner
+Kachori,168,15.0,21,8.2,Snack
+Kheer,368,4.8,12,4.0,Dessert
+Idli,388,7.1,34,13.4,Breakfast
+Paneer Butter Masala,367,14.0,46,14.0,Lunch
+Fish Curry,179,10.7,28,12.3,Dinner
+Masala Papad,216,2.8,30,16.6,Snack
+Kheer,200,6.1,16,6.2,Dessert
+Idli,121,10.6,39,16.2,Breakfast
+Lemon Rice,383,7.2,49,7.0,Lunch
+Jeera Rice,311,6.2,14,7.6,Dinner
+Sev Puri,165,11.5,16,2.1,Snack
+Ladoo,149,13.7,17,4.8,Dessert
+Idli,253,11.8,25,11.4,Breakfast
+Rajma,239,9.0,23,18.3,Lunch
+Paneer Bhurji,294,9.9,36,16.4,Dinner
+Pakora,338,4.2,11,11.9,Snack
+Jalebi,321,14.3,48,14.2,Dessert
+Misal Pav,304,13.7,32,10.1,Breakfast
+Paneer Butter Masala,297,8.5,22,8.4,Lunch
+Bhindi Masala,202,4.0,30,12.3,Dinner
+Pakora,230,7.2,50,6.8,Snack
+Gulab Jamun,166,5.1,45,19.8,Dessert
+Vada Pav,345,3.1,26,12.5,Breakfast
+Rajma,175,10.4,39,3.8,Lunch
+Palak Paneer,334,2.7,45,7.4,Dinner
+Sev Puri,235,11.2,14,9.2,Snack
+Gulab Jamun,325,9.8,42,16.5,Dessert
+Medu Vada,340,2.6,25,8.9,Breakfast
+Vegetable Biryani,107,5.5,17,12.4,Lunch
+Mutton Curry,234,14.6,22,15.5,Dinner
+Masala Papad,311,6.8,48,14.8,Snack
+Kheer,182,12.5,27,15.4,Dessert
+Medu Vada,357,8.5,41,8.8,Breakfast
+Chole,114,13.7,13,14.0,Lunch
+Butter Chicken,362,11.0,10,2.7,Dinner
+Chaat,326,14.2,50,8.0,Snack
+Rasgulla,114,13.4,47,6.9,Dessert
+Pongal,293,4.8,40,3.6,Breakfast
+Vegetable Biryani,145,5.5,16,19.7,Lunch
+Paneer Bhurji,188,7.3,21,2.2,Dinner
+Dhokla,234,11.2,27,5.0,Snack
+Ladoo,370,13.4,21,3.9,Dessert
+Dosa,394,3.8,30,1.1,Breakfast
+Vegetable Biryani,270,13.5,14,4.6,Lunch
+Jeera Rice,383,3.5,15,14.1,Dinner
+Kachori,318,7.6,23,3.0,Snack
+Kulfi,288,7.8,21,12.5,Dessert
+Vada Pav,312,3.9,18,1.9,Breakfast
+Chole,150,4.3,24,9.2,Lunch
+Mutton Curry,399,3.1,29,3.3,Dinner
+Kachori,258,14.7,41,17.5,Snack
+Rasgulla,294,7.3,27,11.6,Dessert
+Idli,309,11.3,22,3.6,Breakfast
+Rajma,262,3.8,21,1.3,Lunch
+Butter Chicken,105,14.9,36,19.6,Dinner
+Momos,117,8.1,15,1.6,Snack
+Gulab Jamun,242,9.1,15,18.9,Dessert
+Medu Vada,296,7.0,22,11.2,Breakfast
+Vegetable Biryani,134,11.4,31,7.9,Lunch
+Palak Paneer,158,2.6,11,11.8,Dinner
+Pakora,225,14.9,36,11.8,Snack
+Kulfi,291,5.8,33,10.9,Dessert
+Misal Pav,134,13.1,43,9.1,Breakfast
+Vegetable Biryani,367,8.5,23,9.6,Lunch
+Palak Paneer,213,13.5,41,16.0,Dinner
+Bhel Puri,128,6.5,49,10.5,Snack
+Kulfi,295,14.1,11,2.8,Dessert
+Idli,158,11.6,36,15.1,Breakfast
+Lemon Rice,248,10.2,47,10.7,Lunch
+Bhindi Masala,372,13.8,18,18.2,Dinner
+Sev Puri,325,12.4,33,3.6,Snack
+Ladoo,392,11.7,18,9.4,Dessert
+Upma,117,10.5,43,18.0,Breakfast
+Paneer Butter Masala,125,7.5,13,17.0,Lunch
+Butter Chicken,241,10.9,30,3.1,Dinner
+Samosa,267,12.2,39,5.5,Snack
+Kheer,325,5.1,18,7.4,Dessert
+Vada Pav,156,13.8,22,13.0,Breakfast
+Vegetable Biryani,349,5.6,47,14.3,Lunch
+Fish Curry,225,4.8,19,6.5,Dinner
+Bhel Puri,291,12.8,49,4.3,Snack
+Rasgulla,194,3.0,34,17.0,Dessert
+Poha,289,8.1,38,11.7,Breakfast
+Lemon Rice,255,7.5,16,14.9,Lunch
+Jeera Rice,122,12.3,27,8.5,Dinner
+Samosa,373,10.5,20,7.5,Snack
+Barfi,341,7.5,46,4.1,Dessert
+Poha,398,11.9,48,11.3,Breakfast
+Vegetable Biryani,154,3.2,23,1.8,Lunch
+Paneer Bhurji,386,14.5,14,16.4,Dinner
+Pakora,109,11.7,15,8.9,Snack
+Jalebi,146,7.8,42,2.9,Dessert
+Medu Vada,268,7.2,48,15.6,Breakfast
+Vegetable Biryani,144,11.1,36,3.6,Lunch
+Palak Paneer,359,9.5,48,2.0,Dinner
+Dhokla,201,9.1,19,16.6,Snack
+Rabri,359,7.0,11,14.1,Dessert
+Pongal,359,14.5,19,8.8,Breakfast
+Lemon Rice,222,4.0,15,2.7,Lunch
+Mutton Curry,143,11.7,36,19.3,Dinner
+Dhokla,118,7.1,34,16.9,Snack
+Gulab Jamun,289,14.0,26,16.0,Dessert
+Aloo Paratha,155,8.4,19,3.4,Breakfast
+Rajma,379,7.3,30,3.4,Lunch
+Jeera Rice,285,10.0,22,9.0,Dinner
+Bhel Puri,282,10.9,49,19.4,Snack
+Kheer,117,6.7,25,1.9,Dessert
+Poha,316,12.8,39,8.7,Breakfast
+Baingan Bharta,294,9.4,48,16.3,Lunch
+Fish Curry,275,2.9,11,14.9,Dinner
+Kachori,320,6.6,48,17.4,Snack
+Gulab Jamun,261,14.7,36,12.6,Dessert
+Misal Pav,285,14.5,16,8.0,Breakfast
+Baingan Bharta,121,14.5,18,1.3,Lunch
+Butter Chicken,260,7.6,31,16.9,Dinner
+Dhokla,400,2.4,15,11.0,Snack
+Gulab Jamun,301,6.2,35,4.8,Dessert
+Pongal,106,12.1,36,4.1,Breakfast
+Chole,309,7.0,50,10.3,Lunch
+Paneer Bhurji,110,10.0,31,10.2,Dinner
+Kachori,238,8.6,21,14.5,Snack
+Kulfi,150,10.4,14,5.1,Dessert
+Upma,172,3.8,24,5.1,Breakfast
+Rajma,324,11.7,10,11.5,Lunch
+Fish Curry,147,14.5,47,8.4,Dinner
+Pakora,245,3.8,18,17.9,Snack
+Kulfi,339,9.6,42,15.1,Dessert
+Idli,173,8.6,28,6.8,Breakfast
+Vegetable Biryani,328,14.6,23,15.1,Lunch
+Fish Curry,387,7.4,35,18.9,Dinner
+Masala Papad,154,3.3,31,6.1,Snack
+Rasgulla,168,7.5,19,10.7,Dessert
+Medu Vada,326,3.4,36,2.9,Breakfast
+Chole,346,5.0,25,10.9,Lunch
+Butter Chicken,177,12.1,39,19.5,Dinner
+Bhel Puri,135,2.2,35,8.5,Snack
+Kulfi,346,2.3,32,10.6,Dessert
+Idli,200,2.5,17,10.1,Breakfast
+Vegetable Biryani,324,2.0,24,2.5,Lunch
+Jeera Rice,264,4.0,19,4.5,Dinner
+Dhokla,178,8.9,44,7.2,Snack
+Rasgulla,247,10.0,39,3.5,Dessert
+Pongal,244,12.8,23,15.5,Breakfast
+Chole,124,13.9,47,18.7,Lunch
+Palak Paneer,166,13.2,11,4.5,Dinner
+Chaat,188,5.9,36,11.0,Snack
+Kheer,153,14.5,34,5.6,Dessert
+Vada Pav,140,10.8,22,12.4,Breakfast
+Baingan Bharta,186,4.6,24,3.3,Lunch
+Palak Paneer,334,6.7,47,6.1,Dinner
+Dhokla,105,6.4,31,4.3,Snack
+Jalebi,187,8.1,14,7.4,Dessert
+Medu Vada,304,14.0,44,1.3,Breakfast
+Dal Makhani,215,14.3,39,11.9,Lunch
+Paneer Bhurji,276,13.0,19,3.7,Dinner
+Sev Puri,328,4.9,38,8.0,Snack
+Rabri,116,7.7,31,15.5,Dessert
+Chilla,216,8.6,44,15.1,Breakfast
+Lemon Rice,341,10.4,35,16.2,Lunch
+Bhindi Masala,168,9.9,50,1.1,Dinner
+Kachori,114,14.6,21,17.5,Snack
+Kheer,222,2.4,43,6.7,Dessert
+Poha,183,11.9,43,14.9,Breakfast
+Lemon Rice,190,4.3,34,6.0,Lunch
+Paneer Bhurji,279,5.1,19,17.2,Dinner
+Pakora,108,5.4,10,16.1,Snack
+Jalebi,244,14.2,50,6.1,Dessert
+Medu Vada,132,10.5,49,19.0,Breakfast
+Baingan Bharta,261,7.5,23,1.4,Lunch
+Paneer Bhurji,182,5.7,23,16.2,Dinner
+Sev Puri,382,6.8,33,4.7,Snack
+Gulab Jamun,297,6.7,44,4.7,Dessert
+Poha,221,6.2,47,13.8,Breakfast
+Chole,207,8.6,27,2.9,Lunch
+Bhindi Masala,169,9.7,11,13.3,Dinner
+Dhokla,291,5.7,47,16.9,Snack
+Kulfi,331,9.4,42,6.2,Dessert
+Aloo Paratha,178,14.1,50,6.2,Breakfast
+Baingan Bharta,309,13.2,43,3.5,Lunch
+Butter Chicken,339,8.0,43,15.0,Dinner
+Bhel Puri,265,12.0,43,19.5,Snack
+Kulfi,240,2.7,35,11.6,Dessert
+Medu Vada,379,5.4,11,19.8,Breakfast
+Paneer Butter Masala,321,3.9,50,10.9,Lunch
+Palak Paneer,381,14.4,35,16.3,Dinner
+Chaat,145,12.3,17,6.9,Snack
+Ladoo,151,2.1,24,5.1,Dessert
+Medu Vada,383,11.8,50,17.8,Breakfast
+Rajma,337,12.6,31,4.0,Lunch
+Paneer Bhurji,209,6.6,14,1.2,Dinner
+Momos,255,2.1,49,6.6,Snack
+Kulfi,381,10.3,14,7.5,Dessert
+Misal Pav,247,5.0,14,6.8,Breakfast
+Vegetable Biryani,292,7.9,46,16.0,Lunch
+Jeera Rice,132,4.1,31,8.1,Dinner
+Chaat,337,6.7,42,12.5,Snack
+Rasgulla,102,5.6,20,15.6,Dessert
+Vada Pav,182,3.3,34,16.9,Breakfast
+Chole,266,3.2,31,19.2,Lunch
+Butter Chicken,336,5.2,45,5.1,Dinner
+Dhokla,269,14.2,25,14.8,Snack
+Kulfi,170,7.3,15,12.0,Dessert
+Misal Pav,317,8.5,32,9.4,Breakfast
+Sambar Rice,134,12.5,40,3.9,Lunch
+Jeera Rice,375,6.4,32,14.4,Dinner
+Masala Papad,157,3.1,34,15.0,Snack
+Kheer,395,5.6,31,19.4,Dessert
+Pongal,300,13.9,32,1.8,Breakfast
+Dal Makhani,221,7.1,13,10.3,Lunch
+Fish Curry,243,13.6,17,1.2,Dinner
+Momos,171,2.7,39,13.4,Snack
+Gulab Jamun,359,4.0,34,4.4,Dessert
+Pongal,371,2.7,22,7.5,Breakfast
+Lemon Rice,331,8.4,14,7.5,Lunch
+Bhindi Masala,213,3.0,50,18.0,Dinner
+Pakora,341,13.0,17,15.2,Snack
+Kheer,269,9.5,32,19.0,Dessert
+Poha,400,10.4,32,17.2,Breakfast
+Sambar Rice,258,10.1,48,18.3,Lunch
+Mutton Curry,190,6.2,22,9.7,Dinner
+Bhel Puri,160,14.7,16,8.8,Snack
+Kulfi,253,5.0,30,8.5,Dessert
+Upma,193,9.8,30,15.8,Breakfast
+Dal Makhani,186,4.0,48,15.0,Lunch
+Fish Curry,194,8.4,16,14.9,Dinner
+Bhel Puri,372,8.9,36,9.6,Snack
+Rabri,129,3.7,41,6.6,Dessert
